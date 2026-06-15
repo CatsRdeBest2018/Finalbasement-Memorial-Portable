@@ -1,0 +1,9 @@
+.chat-row {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.chat-icon {
+    border-radius: 5px;
+}

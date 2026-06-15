@@ -1,0 +1,739 @@
+[
+  {
+    "_id": "65b0012ba13934d23869d74c",
+    "1": [
+      {
+        "className": "Music",
+        "classNumber": "Gil. GCAB07"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "2": [
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "in school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "in school"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "3": [
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "4": [
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Theater",
+        "classNumber": "Whe. WH"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "WHLS",
+        "classNumber": "206"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "5": [
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "6": [
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Music",
+        "classNumber": "Gil. GCAB07"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "7": [
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "8": [
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "Theater",
+        "classNumber": "Whe. WH"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Skills",
+        "classNumber": null
+      }
+    ],
+    "dateCreated": "2024-02-07T14:58:47.181000+00:00"
+  },
+  {
+    "_id": "65ac597b216798d2d663b5b3",
+    "1": [
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "outside school"
+      },
+      {
+        "className": "Idk",
+        "classNumber": null
+      }
+    ],
+    "2": [
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Theater",
+        "classNumber": "Whe. WH"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "idk",
+        "classNumber": null
+      }
+    ],
+    "3": [
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Idk",
+        "classNumber": null
+      }
+    ],
+    "4": [
+      {
+        "className": "Cityside",
+        "classNumber": "in school"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "in school"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "idk",
+        "classNumber": null
+      }
+    ],
+    "5": [
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Theater",
+        "classNumber": "Whe. WH"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "idk",
+        "classNumber": null
+      }
+    ],
+    "6": [
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Music",
+        "classNumber": "Gil. GCAB07"
+      },
+      {
+        "className": "idk",
+        "classNumber": null
+      }
+    ],
+    "7": [
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "idk",
+        "classNumber": null
+      }
+    ],
+    "8": [
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Music",
+        "classNumber": "Gil. GCAB07"
+      },
+      {
+        "className": "Honors Math",
+        "classNumber": "313"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Spanish",
+        "classNumber": "113"
+      },
+      {
+        "className": "WHLS",
+        "classNumber": "Dib lab"
+      },
+      {
+        "className": "IDk",
+        "classNumber": null
+      }
+    ],
+    "dateCreated": "2024-03-28T12:01:41.932000+00:00"
+  },
+  {
+    "_id": "CURRENT_DAY",
+    "day": 1,
+    "date": "2024-04-30T16:14:38.680000+00:00"
+  },
+  {
+    "_id": "65b01833a13934d23869d8c5",
+    "1": [
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Academic Support",
+        "classNumber": null
+      },
+      {
+        "className": "Theater",
+        "classNumber": "Whe. WH"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "2": [
+      {
+        "className": "Music",
+        "classNumber": "Gil. GCAB07"
+      },
+      {
+        "className": "Math",
+        "classNumber": ""
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Academic Support",
+        "classNumber": null
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "3": [
+      {
+        "className": "Academic Support",
+        "classNumber": null
+      },
+      {
+        "className": "Math",
+        "classNumber": ""
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "cityside"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "cityside"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "cityside"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "cityside"
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "4": [
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Academic Support",
+        "classNumber": null
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Math",
+        "classNumber": ""
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "skills ",
+        "classNumber": null
+      }
+    ],
+    "5": [
+      {
+        "className": "202",
+        "classNumber": null
+      },
+      {
+        "className": "Academic Support",
+        "classNumber": null
+      },
+      {
+        "className": "Art",
+        "classNumber": "404"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "6": [
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "cityside"
+      },
+      {
+        "className": "Cityside",
+        "classNumber": "cityside"
+      },
+      {
+        "className": "301",
+        "classNumber": null
+      },
+      {
+        "className": "202",
+        "classNumber": null
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "7": [
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "202",
+        "classNumber": null
+      },
+      {
+        "className": "Theater",
+        "classNumber": "Whe. WH"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "English",
+        "classNumber": "309"
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "8": [
+      {
+        "className": "Science",
+        "classNumber": "206"
+      },
+      {
+        "className": "History",
+        "classNumber": "213"
+      },
+      {
+        "className": "Academic Support",
+        "classNumber": null
+      },
+      {
+        "className": "Music",
+        "classNumber": "Gil. GCAB07"
+      },
+      {
+        "className": "Math",
+        "classNumber": ""
+      },
+      {
+        "className": "WHLS",
+        "classNumber": ""
+      },
+      {
+        "className": "skills",
+        "classNumber": null
+      }
+    ],
+    "dateCreated": "2024-02-07T13:09:30.894000+00:00"
+  }
+]

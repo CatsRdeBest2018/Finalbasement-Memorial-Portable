@@ -1,0 +1,1060 @@
+[
+  {
+    "_id": "65f124c7ccf1bea94813470d",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-13T04:00:07.893000+00:00"
+  },
+  {
+    "_id": "65cfba6aaef4851520996dc6",
+    "value": 0.2,
+    "archiveType": "coinValue",
+    "archiveDate": "2024-02-16T19:41:30.940000+00:00"
+  },
+  {
+    "_id": "6631512ffef1c3694fd080fe",
+    "archiveType": "coinSum",
+    "amount": 837.961,
+    "archiveDate": "2024-04-30T20:14:39.035000+00:00"
+  },
+  {
+    "_id": "65e949f15198aaeea8a7b97b",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-07T05:00:33.227000+00:00"
+  },
+  {
+    "_id": "660e08cb3fc23723327b1f3a",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.0,
+    "method": "redeemCoin",
+    "coin_id": "660597e76d425d12ba2c231f",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-04T01:56:27.907000+00:00"
+  },
+  {
+    "_id": "6604eb78c93c3992899260e2",
+    "archiveType": "coinSum",
+    "amount": 812.312,
+    "archiveDate": "2024-03-28T04:00:56.915000+00:00"
+  },
+  {
+    "_id": "6610c8c156492f915a31a06a",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-04-06T04:00:01.654000+00:00"
+  },
+  {
+    "_id": "660e25dd231b622db59aaac6",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-04-04T04:00:29.962000+00:00"
+  },
+  {
+    "_id": "65f90ddc2753db6c126d27b7",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-19T04:00:28.349000+00:00"
+  },
+  {
+    "_id": "66e31081cddcbc48eb2a852a",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 5.206,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Paper",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:02:09.668000+00:00"
+  },
+  {
+    "_id": "66e31188cddcbc48eb2a8568",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.006,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:06:32.295000+00:00"
+  },
+  {
+    "_id": "65e7f86778f059d256724d85",
+    "archiveType": "coinSum",
+    "amount": 827.236,
+    "archiveDate": "2024-03-06T05:00:23.572000+00:00"
+  },
+  {
+    "_id": "66e30fbdcddcbc48eb2a84e5",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 1.009,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T15:58:53.546000+00:00"
+  },
+  {
+    "_id": "65e6a6f781b86e67884620e7",
+    "archiveType": "coinSum",
+    "amount": 827.236,
+    "archiveDate": "2024-03-05T05:00:39.982000+00:00"
+  },
+  {
+    "_id": "65fbb0cf0d19f07301b727bd",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-21T04:00:15.896000+00:00"
+  },
+  {
+    "_id": "65f7bc63cb79e2e5bc064ff8",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-18T04:00:35.107000+00:00"
+  },
+  {
+    "_id": "660399ecf76c660c34546b11",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-27T04:00:44.936000+00:00"
+  },
+  {
+    "_id": "66e311dccddcbc48eb2a86eb",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 140.003,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:07:56.558000+00:00"
+  },
+  {
+    "_id": "65efd347badb063094b26414",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-12T04:00:07.183000+00:00"
+  },
+  {
+    "_id": "66326412708b4837096ab78b",
+    "userid": "65cf7b6baef4851520995c03",
+    "transactions": [
+      {
+        "msg": "You removed EC worth: 0.001",
+        "type": "Warning",
+        "time": "2024-02-22T17:31:05.643000+00:00"
+      },
+      {
+        "msg": "Your item \"Gimme money\" was purchased by ethan for 0.01 EC",
+        "type": "Success",
+        "time": "2024-02-23T17:36:57.370000+00:00"
+      },
+      {
+        "msg": "Your item \"Gimme money\" was purchased by little_pluh for 0.01 EC",
+        "type": "Success",
+        "time": "2024-02-23T17:38:10.896000+00:00"
+      }
+    ],
+    "archiveType": "clearedTransactions",
+    "archiveDate": "2024-05-01T15:47:30.169000+00:00"
+  },
+  {
+    "_id": "65d02cfc5c7e1696068d7bd3",
+    "value": 0.15,
+    "archiveType": "coinValue",
+    "archiveDate": "2024-02-17T03:50:20.363000+00:00"
+  },
+  {
+    "_id": "6633f6fa1f4d97da97b97c60",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.402,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-05-02T20:26:34.977000+00:00"
+  },
+  {
+    "_id": "66e3100ecddcbc48eb2a850a",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 2.007,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:00:14.594000+00:00"
+  },
+  {
+    "_id": "66e30feecddcbc48eb2a84f4",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 1.509,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T15:59:42.932000+00:00"
+  },
+  {
+    "_id": "6633f7051f4d97da97b97c65",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.802,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-05-02T20:26:45.505000+00:00"
+  },
+  {
+    "_id": "660e11b63fc23723327b1f48",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.026,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Paper",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-04T02:34:30.850000+00:00"
+  },
+  {
+    "_id": "660e08bf3fc23723327b1f32",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.0,
+    "method": "redeemCoin",
+    "coin_id": "660597e76d425d12ba2c231f",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-04T01:56:15.682000+00:00"
+  },
+  {
+    "_id": "661232fe3fc23723327b1fd6",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.025,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-07T05:45:34.559000+00:00"
+  },
+  {
+    "_id": "65ed3e6a3d51354e4dfece59",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-10T05:00:26.719000+00:00"
+  },
+  {
+    "_id": "65ebecff122392bfdf07455b",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-09T05:00:47.182000+00:00"
+  },
+  {
+    "_id": "65ffa563c32687e021b0c740",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-24T04:00:35.417000+00:00"
+  },
+  {
+    "_id": "66e31152cddcbc48eb2a8549",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 8.306,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:05:38.842000+00:00"
+  },
+  {
+    "_id": "65fe53c6abdfceb4c46d552f",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-23T04:00:06.216000+00:00"
+  },
+  {
+    "_id": "66e30fdfcddcbc48eb2a84ef",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 2.009,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T15:59:27.422000+00:00"
+  },
+  {
+    "_id": "65f2765b2b8adfc364495e17",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-14T04:00:27.531000+00:00"
+  },
+  {
+    "_id": "66121a64eb1b16f7033a8749",
+    "archiveType": "coinSum",
+    "amount": 837.826,
+    "archiveDate": "2024-04-07T04:00:36.655000+00:00"
+  },
+  {
+    "_id": "65ea9b5f8db7e26e5022cfda",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-08T05:00:15.466000+00:00"
+  },
+  {
+    "_id": "65f3c7e8ad0f880f0b6e9749",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-15T04:00:40.038000+00:00"
+  },
+  {
+    "_id": "66e3117acddcbc48eb2a8560",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.306,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:06:18.690000+00:00"
+  },
+  {
+    "_id": "660e08c93fc23723327b1f36",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.026,
+    "method": "removeCoin",
+    "coin_id": "660597e76d425d12ba2c231f",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-04T01:56:25.571000+00:00"
+  },
+  {
+    "_id": "66063cd5d2d2f6e1a443134e",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-03-29T04:00:21.270000+00:00"
+  },
+  {
+    "_id": "660e0dbc7f4824904bb37ad7",
+    "userid": "65ac597b216798d2d663b5b3",
+    "transactions": [
+      {
+        "msg": "You removed EC worth: 0.026",
+        "type": "Warning",
+        "time": "2024-04-04T01:56:11.502000+00:00"
+      },
+      {
+        "msg": "You redeemed EC worth: 0.026",
+        "type": "Success",
+        "time": "2024-04-04T01:56:15.615000+00:00"
+      },
+      {
+        "msg": "You removed EC worth: 0.026",
+        "type": "Warning",
+        "time": "2024-04-04T01:56:25.504000+00:00"
+      },
+      {
+        "msg": "You redeemed EC worth: 0.026",
+        "type": "Success",
+        "time": "2024-04-04T01:56:27.838000+00:00"
+      }
+    ],
+    "archiveType": "clearedTransactions",
+    "archiveDate": "2024-04-04T02:17:32.606000+00:00"
+  },
+  {
+    "_id": "6611fc723fc23723327b1fa6",
+    "userid": "65ac597b216798d2d663b5b3",
+    "username": "ethan",
+    "coins": [
+      {
+        "_id": "6611fc6d3fc23723327b1f75"
+      },
+      {
+        "_id": "6611fc6d3fc23723327b1f77"
+      },
+      {
+        "_id": "6611fc6d3fc23723327b1f79"
+      },
+      {
+        "_id": "6611fc6d3fc23723327b1f7b"
+      },
+      {
+        "_id": "6611fc6e3fc23723327b1f7d"
+      },
+      {
+        "_id": "6611fc6e3fc23723327b1f7f"
+      },
+      {
+        "_id": "6611fc6e3fc23723327b1f81"
+      },
+      {
+        "_id": "6611fc6e3fc23723327b1f83"
+      },
+      {
+        "_id": "6611fc6e3fc23723327b1f85"
+      },
+      {
+        "_id": "6611fc6f3fc23723327b1f87"
+      },
+      {
+        "_id": "6611fc6f3fc23723327b1f89"
+      },
+      {
+        "_id": "6611fc6f3fc23723327b1f8b"
+      },
+      {
+        "_id": "6611fc6f3fc23723327b1f8d"
+      },
+      {
+        "_id": "6611fc6f3fc23723327b1f8f"
+      },
+      {
+        "_id": "6611fc703fc23723327b1f91"
+      },
+      {
+        "_id": "6611fc703fc23723327b1f93"
+      },
+      {
+        "_id": "6611fc703fc23723327b1f95"
+      },
+      {
+        "_id": "6611fc703fc23723327b1f97"
+      },
+      {
+        "_id": "6611fc703fc23723327b1f99"
+      },
+      {
+        "_id": "6611fc713fc23723327b1f9b"
+      },
+      {
+        "_id": "6611fc713fc23723327b1f9d"
+      },
+      {
+        "_id": "6611fc713fc23723327b1f9f"
+      },
+      {
+        "_id": "6611fc713fc23723327b1fa1"
+      },
+      {
+        "_id": "6611fc713fc23723327b1fa3"
+      },
+      {
+        "_id": "6611fc723fc23723327b1fa5"
+      }
+    ],
+    "archiveType": "adminCoins",
+    "archiveDate": "2024-04-07T01:52:50.356000+00:00"
+  },
+  {
+    "_id": "660a315e51ba6d50138b03b3",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-04-01T04:00:30.126000+00:00"
+  },
+  {
+    "_id": "6612330d3fc23723327b1fdb",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.026,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Scissors",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-07T05:45:49.293000+00:00"
+  },
+  {
+    "_id": "66e3116acddcbc48eb2a8558",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 4.306,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:06:02.738000+00:00"
+  },
+  {
+    "_id": "65fd02745e87996f0cf086d5",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-22T04:00:52.741000+00:00"
+  },
+  {
+    "_id": "6611fff73fc23723327b1faa",
+    "userid": "65ac597b216798d2d663b5b3",
+    "username": "ethan",
+    "coins": [
+      {
+        "_id": "6611fff73fc23723327b1fa9"
+      }
+    ],
+    "archiveType": "adminCoins",
+    "archiveDate": "2024-04-07T02:07:51.636000+00:00"
+  },
+  {
+    "_id": "66078e7536a0e752276ded08",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-03-30T04:00:53.496000+00:00"
+  },
+  {
+    "_id": "66e31053cddcbc48eb2a851a",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 4.006,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Paper",
+    "userChoice": "Scissors",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:01:23.278000+00:00"
+  },
+  {
+    "_id": "65d02bd65c7e1696068d7bc6",
+    "value": 0.32,
+    "archiveType": "coinValue",
+    "archiveDate": "2024-02-17T03:45:26.910000+00:00"
+  },
+  {
+    "_id": "65f5194b922206b9fbb3e26c",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-16T04:00:11.657000+00:00"
+  },
+  {
+    "_id": "660cd4482f041f2533c76762",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-04-03T04:00:08.691000+00:00"
+  },
+  {
+    "_id": "6600f6e67a60d63eeec299f2",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-25T04:00:38.137000+00:00"
+  },
+  {
+    "_id": "66e3101acddcbc48eb2a8511",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 2.006,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:00:26.408000+00:00"
+  },
+  {
+    "_id": "65fa5f56d41d12b17f327d0c",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-20T04:00:22.764000+00:00"
+  },
+  {
+    "_id": "6633f6ea1f4d97da97b97c59",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.202,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Paper",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-05-02T20:26:18.085000+00:00"
+  },
+  {
+    "_id": "66e31146cddcbc48eb2a8542",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 10.406,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:05:26.707000+00:00"
+  },
+  {
+    "_id": "6608dfe0296e6c6cb536a73d",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-03-31T04:00:32.952000+00:00"
+  },
+  {
+    "_id": "6602484a11f5fd2adde1ffdb",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-26T04:00:10.241000+00:00"
+  },
+  {
+    "_id": "660f775477b45bbc55469bac",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-04-05T04:00:20.845000+00:00"
+  },
+  {
+    "_id": "660b82d7cdaf2c449ddbecb0",
+    "archiveType": "coinSum",
+    "amount": 812.326,
+    "archiveDate": "2024-04-02T04:00:23.171000+00:00"
+  },
+  {
+    "_id": "65f66ad3a855b86dc7c5b233",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-17T04:00:19.192000+00:00"
+  },
+  {
+    "_id": "660e08bb3fc23723327b1f2e",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 0.026,
+    "method": "removeCoin",
+    "coin_id": "660597e76d425d12ba2c231f",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-04-04T01:56:11.569000+00:00"
+  },
+  {
+    "_id": "65ee81cfb7c7e7d92b872f03",
+    "archiveType": "coinSum",
+    "amount": 812.242,
+    "archiveDate": "2024-03-11T04:00:15.455000+00:00"
+  },
+  {
+    "_id": "66e31002cddcbc48eb2a84fc",
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 2.009,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2024-09-12T16:00:02.513000+00:00"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 40.0,
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:25:36.678528",
+    "_id": "746d7fe435484dda9ca5a5f24b0942e5"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 40.01,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:25:56.170556",
+    "_id": "37bfaa3199a644e8bca33f9e8c96a6c8"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 38.01,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:26:00.751221",
+    "_id": "2ad57e1a44b74502a13c6dd6696567d4"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 34.01,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:26:05.823245",
+    "_id": "48840f8936ee4656bce6753643ade427"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 28.01,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Heads",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:26:28.293245",
+    "_id": "22b3eeffb1e2407b841cd89205ae15f4"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 16.01,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Tails",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:26:42.645376",
+    "_id": "f56f04f64762442b9c06c66c7a8d8202"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 32.01,
+    "method": "gamble",
+    "game": "flipACoin",
+    "calledFlip": "Tails",
+    "flip": "Heads",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T00:26:47.801122",
+    "_id": "b2f0fcca3c3041358159b4a910dd6ccb"
+  },
+  {
+    "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+    "inbox": [
+      {
+        "msg": "\"yooo\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-16T01:21:45.504433"
+      }
+    ],
+    "archiveType": "clearedInbox",
+    "archiveDate": "2026-06-16T01:21:49.349361",
+    "_id": "ef670925f71b4b8ebc6b2a7c3ede5c3f"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "title": "test",
+    "description": "testttt",
+    "content": "fela",
+    "imagePath": null,
+    "date": "2026-06-16T01:23:45.293146",
+    "archiveType": "declinedArticle",
+    "archivedId": "03016",
+    "archiveDate": "2026-06-16T01:24:58.426875",
+    "_id": "31286312ebae45d0aaa8629fabf56b9f"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "title": "oiooo",
+    "description": "shi",
+    "contentType": null,
+    "content": null,
+    "comments": [],
+    "likes": [],
+    "dislikes": [],
+    "date": "2026-06-16T01:27:14.797740",
+    "archiveType": "deletedPost",
+    "archivedId": "b27c005054cb4b79aca08cdd51b6e7b0",
+    "archiveDate": "2026-06-16T01:27:31.421123",
+    "_id": "9d9263cf12124dbf8f1b04fe48581a54"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "title": "video",
+    "description": "test",
+    "contentType": "video",
+    "content": "local_data/files/post-content/3top1short_48396.mp4",
+    "comments": [],
+    "likes": [],
+    "dislikes": [],
+    "date": "2026-06-16T01:29:53.269099",
+    "archiveType": "deletedPost",
+    "archivedId": "88a2a0bcef474505b687c5cc270becb8",
+    "archiveDate": "2026-06-16T01:30:43.905014",
+    "_id": "d2ff5f712b584098a0edd618058640d2"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "title": "fdas",
+    "description": "fda",
+    "contentType": "video",
+    "content": "local_data/files/post-content/3top1short_98888.mp4",
+    "comments": [],
+    "likes": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "dislikes": [],
+    "date": "2026-06-16T01:31:10.738076",
+    "archiveType": "deletedPost",
+    "archivedId": "63dea64e469c44078082874ce5912ac8",
+    "archiveDate": "2026-06-16T01:32:01.002897",
+    "_id": "d22f1e4d180643fabce43a7d9efcd615"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "postId": "65b07a888be90330d6307c61",
+    "text": "cute",
+    "date": "2026-06-16T01:32:10.134761",
+    "archiveType": "deletedComment",
+    "archivedId": "05545",
+    "archiveDate": "2026-06-16T01:32:30.391299",
+    "_id": "b7ed967c15614b7abc3d18d887fc52a8"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "title": "test",
+    "description": "test",
+    "contentType": "image",
+    "content": "local_data/files/post-content/STREAM 1 (3)_69822.png",
+    "comments": [],
+    "likes": [],
+    "dislikes": [],
+    "date": "2026-06-16T01:32:47.896621",
+    "archiveType": "deletedPost",
+    "archivedId": "f5913e653df748d290b7a1f549d6ad0a",
+    "archiveDate": "2026-06-16T01:32:54.911070",
+    "_id": "a4f060a5c485485d99f2d43aec784183"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "balSum": 0.0,
+    "method": "deposit",
+    "coinsDeposited": [
+      "92ad8be8ec94406296ef258b99f7e12a"
+    ],
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:37:01.267946",
+    "_id": "f666003091d64aaa87ea509837953da8"
+  },
+  {
+    "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+    "balSum": 0.0,
+    "method": "redeemCoin",
+    "coin_id": "92ad8be8ec94406296ef258b99f7e12a",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:37:19.381898",
+    "_id": "71c27736454e462fa3e9cb402ab2fa3a"
+  },
+  {
+    "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+    "balSum": 0.01,
+    "method": "removeCoin",
+    "coin_id": "92ad8be8ec94406296ef258b99f7e12a",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:37:34.469052",
+    "_id": "82984a359baa41c4b06dc13acc5e1880"
+  },
+  {
+    "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+    "balSum": 0.0,
+    "method": "redeemCoin",
+    "coin_id": "92ad8be8ec94406296ef258b99f7e12a",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:37:46.727411",
+    "_id": "e39a0f21ca914cd7a2cee1c243ff40f7"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 24.153,
+    "method": "buyItem",
+    "itemBought": "079524f26aaa4db18bc7717b73a1f518",
+    "price": 3.0,
+    "sellerBalSum": 0.0,
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:39:08.554776",
+    "_id": "acfccf3237a84a29bcb98a015bc5b5dd"
+  },
+  {
+    "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+    "balSum": 3.0,
+    "method": "sendCoins",
+    "sentUser": "65ac597b216798d2d663b5b3",
+    "sentUserBalSum": 21.153,
+    "amount": 3.0,
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:40:23.988164",
+    "_id": "af54b5e7dfca4d02ad70f68365ddae8a"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 24.153,
+    "method": "acceptedRequest",
+    "requester": "c5b5efa8b5494a198547fb5bbeba3454",
+    "requesterBalSum": 0.0,
+    "amount": 5.0,
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:41:02.707730",
+    "_id": "afb5209ec11f4cd785d3a4ba79277f16"
+  },
+  {
+    "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+    "balSum": 5.0,
+    "method": "sendCoins",
+    "sentUser": "65ac597b216798d2d663b5b3",
+    "sentUserBalSum": 19.153,
+    "amount": 5.0,
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:41:43.021848",
+    "_id": "5c6252c5a3fc4a219438faab25627608"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 24.153,
+    "bet": 5.0,
+    "result": "tie",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:43:52.876683",
+    "_id": "99cd934dada047e4907cda25fbd372ad"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 24.153,
+    "bet": 5.0,
+    "result": "win",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:44:14.604065",
+    "_id": "d399224e0282415096fa9b7900f65dfe"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 29.153,
+    "bet": 1.0,
+    "result": "loss",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Paper",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:44:28.229771",
+    "_id": "a80fa7e82571480881fefd22ddfdc308"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 28.153,
+    "bet": 8.0,
+    "result": "loss",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Paper",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:44:41.592001",
+    "_id": "89031072689540469108b3b07efaa169"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 20.153,
+    "bet": 16.0,
+    "result": "tie",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:44:47.803406",
+    "_id": "6704891745744afabed77b2611cb26e2"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 20.153,
+    "bet": 16.0,
+    "result": "win",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:44:50.429073",
+    "_id": "7028b5d4c98f4aaba63a39f4fa71242d"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 36.153,
+    "bet": 4.0,
+    "result": "tie",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:50:26.571641",
+    "_id": "c838c8e267544858a0810a9694339a31"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 36.153,
+    "bet": 2.0,
+    "result": "tie",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:50:30.334927",
+    "_id": "9a0e4bb638a2478b88bda9a7447d8d6a"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 36.153,
+    "bet": 5.0,
+    "result": "tie",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Rock",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:50:33.059294",
+    "_id": "4ae7bf9329a64d94bb08fd27e8fe99eb"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 36.153,
+    "bet": 7.0,
+    "result": "loss",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Paper",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:50:36.559352",
+    "_id": "b5b30db605d74a9ebf90caf3a01a8d78"
+  },
+  {
+    "userid": "65ac597b216798d2d663b5b3",
+    "balSum": 29.153,
+    "bet": 4.0,
+    "result": "win",
+    "method": "gamble",
+    "game": "rps",
+    "compChoice": "Scissors",
+    "userChoice": "Rock",
+    "archiveType": "coinTransaction",
+    "archiveDate": "2026-06-16T01:50:39.964512",
+    "_id": "b1a77e1256534637a4385960601566b4"
+  },
+  {
+    "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+    "title": "test",
+    "description": "test",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": {
+      "text": null,
+      "contentType": null,
+      "content": null,
+      "file": null
+    },
+    "price": 3.0,
+    "buyers": [
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "date": "2026-06-16T01:39:08.519276"
+      }
+    ],
+    "privacyKey": null,
+    "date": "2026-06-16T01:39:01.753729",
+    "archiveType": "deletedItem",
+    "archivedId": "079524f26aaa4db18bc7717b73a1f518",
+    "archiveDate": "2026-06-16T01:55:40.561045",
+    "_id": "200637def0f14d0495638a879c56c622"
+  }
+]

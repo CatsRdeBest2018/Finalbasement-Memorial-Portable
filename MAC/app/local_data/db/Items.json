@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "65d783f2782f44ba1ad60fa2",
+    "userid": "65cf7b6baef4851520995c03",
+    "title": "Gimme money",
+    "description": "gimme money",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": {
+      "text": "gimme money",
+      "contentType": null,
+      "content": null,
+      "file": null
+    },
+    "price": 0.01,
+    "buyers": [
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "date": "2024-02-23T17:36:57.209000+00:00"
+      },
+      {
+        "_id": "65b15049b0e0d0835286729f",
+        "date": "2024-02-23T17:38:10.738000+00:00"
+      }
+    ],
+    "privacyKey": null,
+    "date": "2024-02-22T17:27:14.013000+00:00"
+  },
+  {
+    "_id": "65de3c6958e11334dfc940e5",
+    "userid": "65ce6953c7b36967983be119",
+    "title": "Cafe ",
+    "description": "If you give me Eathen coin I will by you an Item of you choosing from the cafe. ",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": null,
+    "price": 10.0,
+    "buyers": [],
+    "privacyKey": "password ",
+    "date": "2024-02-27T19:47:53.653000+00:00"
+  },
+  {
+    "_id": "65e0e08a8a7496d0aa5e0d51",
+    "userid": "65e0ddad8a7496d0aa5e0d14",
+    "title": "hi guys please buy this for no reason",
+    "description": "Travis needs money",
+    "thumbnailType": "image",
+    "thumbnail": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/marketplace-files/unnamed (1)_33194.png",
+    "digital": {
+      "text": "Thakns u!1!!1",
+      "contentType": null,
+      "content": null,
+      "file": null
+    },
+    "price": 1.0,
+    "buyers": [],
+    "privacyKey": null,
+    "date": "2024-02-29T19:52:42.232000+00:00"
+  },
+  {
+    "_id": "65de3ce258e11334dfc940e9",
+    "userid": "65ce6953c7b36967983be119",
+    "title": "Cafe ",
+    "description": "If you give me Ethen coin I will by you an Item of you choosing from the cafe. ",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": null,
+    "price": 10.0,
+    "buyers": [],
+    "privacyKey": "f33t",
+    "date": "2024-02-27T19:49:54.690000+00:00"
+  },
+  {
+    "_id": "65db704ad34cb3e289efd84a",
+    "userid": "65ac597b216798d2d663b5b3",
+    "title": "Test",
+    "description": "test",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": null,
+    "price": 5.0,
+    "buyers": [
+      {
+        "_id": "65ac5a64216798d2d663b5c7",
+        "date": "2024-02-25T16:55:56.013000+00:00"
+      }
+    ],
+    "privacyKey": null,
+    "date": "2024-02-25T16:52:26.940000+00:00"
+  },
+  {
+    "_id": "65d8d625782f44ba1ad615a7",
+    "userid": "65b15049b0e0d0835286729f",
+    "title": "brooks feet pics",
+    "description": "brooks feet pics",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": {
+      "text": "hahahaha scammed",
+      "contentType": "image",
+      "content": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/marketplace-files/laughing_24703.png",
+      "file": null
+    },
+    "price": 5.0,
+    "buyers": [
+      {
+        "_id": "65ac5a64216798d2d663b5c7",
+        "date": "2024-02-25T16:49:48.422000+00:00"
+      }
+    ],
+    "privacyKey": "f33t",
+    "date": "2024-02-23T17:30:13.779000+00:00"
+  },
+  {
+    "_id": "65d15f3faef485152099bd73",
+    "userid": "65b16f9eb0e0d083528674d5",
+    "title": "Eddies feet picks",
+    "description": "right from the source",
+    "thumbnailType": null,
+    "thumbnail": null,
+    "digital": {
+      "text": null,
+      "contentType": "image",
+      "content": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/marketplace-files/IMG_20240217_170339_13071.png",
+      "file": null
+    },
+    "price": 1.0,
+    "buyers": [
+      {
+        "_id": "65b01833a13934d23869d8c5",
+        "date": "2024-02-21T17:47:56.252000+00:00"
+      },
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "date": "2024-02-21T23:37:18.034000+00:00"
+      },
+      {
+        "_id": "65ca58fb1d1c7dd4e7defda9",
+        "date": "2024-02-27T13:19:20.462000+00:00"
+      }
+    ],
+    "privacyKey": "f33t",
+    "date": "2024-02-18T01:37:03.553000+00:00"
+  },
+  {
+    "_id": "65d02f34aef485152099b0ba",
+    "userid": "65ac597b216798d2d663b5b3",
+    "title": "Mewing tutorial",
+    "description": "Video with detailed instructions on how to mew (made by me)",
+    "thumbnailType": "image",
+    "thumbnail": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/marketplace-files/IMG_1981._32189.png",
+    "digital": {
+      "text": "Thanks for purchasing pookie",
+      "contentType": "video",
+      "content": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/marketplace-files/IMG_1983_97563.bin",
+      "file": null
+    },
+    "price": 0.2,
+    "buyers": [
+      {
+        "_id": "65ac5a64216798d2d663b5c7",
+        "date": "2024-02-17T04:01:51.180000+00:00"
+      },
+      {
+        "_id": "65b15049b0e0d0835286729f",
+        "date": "2024-02-17T07:25:11.829000+00:00"
+      },
+      {
+        "_id": "65b01833a13934d23869d8c5",
+        "date": "2024-02-17T22:55:10.655000+00:00"
+      }
+    ],
+    "privacyKey": null,
+    "date": "2024-02-17T03:59:48.472000+00:00"
+  }
+]

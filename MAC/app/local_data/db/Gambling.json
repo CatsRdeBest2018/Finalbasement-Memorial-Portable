@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "626662",
+    "title": "ethan's Blackjack Game",
+    "players": [
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "bet": [
+          {
+            "_id": "65e55e10f50d0ddc87a55310"
+          }
+        ],
+        "move": null,
+        "hands": [],
+        "done": false,
+        "spectating": false,
+        "time": "2024-03-04T05:37:02.692000+00:00"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5",
+        "bet": [
+          {
+            "_id": "65e55e1ef50d0ddc87a55316"
+          }
+        ],
+        "move": null,
+        "hands": [],
+        "done": false,
+        "spectating": false,
+        "time": "2024-03-04T05:37:10.608000+00:00"
+      }
+    ],
+    "dealer": [
+      {
+        "fileName": "5_of_spades.png",
+        "value": "5",
+        "revealed": false
+      },
+      {
+        "fileName": "back_of_card.png",
+        "value": "b",
+        "revealed": true
+      }
+    ],
+    "stage": "drawing",
+    "maxPlayers": 6,
+    "privacy": "private",
+    "gameType": "blackjack",
+    "latestInteraction": "2024-03-04T05:37:02.692000+00:00",
+    "dateCreated": "2024-03-04T05:37:02.692000+00:00"
+  },
+  {
+    "_id": "061127",
+    "title": "ethan's Blackjack Game",
+    "players": [
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "bet": [
+          {
+            "_id": "65e55125f50d0ddc87a552da"
+          }
+        ],
+        "move": null,
+        "hands": [],
+        "done": false,
+        "spectating": false,
+        "time": "2024-03-04T04:41:48.484000+00:00"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5",
+        "bet": [
+          {
+            "_id": "65e55131f50d0ddc87a552df"
+          }
+        ],
+        "move": null,
+        "hands": [],
+        "done": false,
+        "spectating": false,
+        "time": "2024-03-04T04:41:55.854000+00:00"
+      }
+    ],
+    "dealer": [
+      {
+        "fileName": "7_of_spades.png",
+        "value": "7",
+        "revealed": false
+      },
+      {
+        "fileName": "9_of_clubs.png",
+        "value": "9",
+        "revealed": true
+      }
+    ],
+    "stage": "drawing",
+    "maxPlayers": 4,
+    "privacy": "public",
+    "gameType": "blackjack",
+    "latestInteraction": "2024-03-04T04:41:48.484000+00:00",
+    "dateCreated": "2024-03-04T04:41:48.484000+00:00"
+  },
+  {
+    "_id": "123386",
+    "title": "Weddie's Blackjack Game",
+    "players": [
+      {
+        "_id": "65b16f9eb0e0d083528674d5",
+        "bet": [
+          {
+            "_id": "65e55e63f50d0ddc87a55333"
+          }
+        ],
+        "move": null,
+        "hands": [
+          [
+            {
+              "fileName": "7_of_hearts.png",
+              "value": "7"
+            },
+            {
+              "fileName": "queen_of_hearts2.png",
+              "value": 10
+            }
+          ]
+        ],
+        "done": false,
+        "spectating": false,
+        "time": "2024-03-04T05:38:18.644000+00:00"
+      },
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "bet": [
+          {
+            "_id": "65e55e55f50d0ddc87a5532d"
+          }
+        ],
+        "move": null,
+        "hands": [
+          [
+            {
+              "fileName": "jack_of_diamonds2.png",
+              "value": 10
+            },
+            {
+              "fileName": "2_of_clubs.png",
+              "value": "2"
+            }
+          ]
+        ],
+        "done": false,
+        "spectating": false,
+        "time": "2024-03-04T05:38:24.321000+00:00"
+      }
+    ],
+    "dealer": [
+      {
+        "fileName": "ace_of_spades.png",
+        "value": "ace",
+        "revealed": false
+      },
+      {
+        "fileName": "3_of_hearts.png",
+        "value": "3",
+        "revealed": true
+      }
+    ],
+    "stage": "drawing",
+    "maxPlayers": 6,
+    "privacy": "private",
+    "gameType": "blackjack",
+    "latestInteraction": "2024-03-04T05:38:18.644000+00:00",
+    "dateCreated": "2024-03-04T05:38:18.644000+00:00"
+  }
+]

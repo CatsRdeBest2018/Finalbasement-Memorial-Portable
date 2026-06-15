@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "65cf8797aef4851520995dee",
+    "userid": "65b15c27b0e0d08352867488",
+    "title": "Eddie the finest",
+    "description": "Eddie is so fine and its all over my screnn",
+    "contentType": "image",
+    "content": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/post-content/WIN_20240216_10_57_03_Pro_71001.png",
+    "comments": [
+      {
+        "_id": "72230",
+        "userid": "65b16f9eb0e0d083528674d5",
+        "postId": "65cf8797aef4851520995dee",
+        "text": "I was not mewing",
+        "date": "2024-02-16T16:05:07.674000+00:00"
+      },
+      {
+        "_id": "75060",
+        "userid": "65b16f9eb0e0d083528674d5",
+        "postId": "65cf8797aef4851520995dee",
+        "text": "I was not evenmewing",
+        "date": "2024-02-16T16:05:49.176000+00:00"
+      },
+      {
+        "_id": "56676",
+        "userid": "65b15c27b0e0d08352867488",
+        "postId": "65cf8797aef4851520995dee",
+        "text": "Caseoh type beat",
+        "date": "2024-02-16T16:05:53.624000+00:00"
+      },
+      {
+        "_id": "78463",
+        "userid": "65b15c27b0e0d08352867488",
+        "postId": "65cf8797aef4851520995dee",
+        "text": "Fidel Casserole",
+        "date": "2024-02-16T16:06:05.207000+00:00"
+      },
+      {
+        "_id": "92194",
+        "userid": "65b15c27b0e0d08352867488",
+        "postId": "65cf8797aef4851520995dee",
+        "text": "Pablo piCASEOH",
+        "date": "2024-02-16T16:06:30.761000+00:00"
+      },
+      {
+        "_id": "49276",
+        "userid": "65cebd99b2dba3e8571624bf",
+        "postId": "65cf8797aef4851520995dee",
+        "text": "stop meowing and start mewing",
+        "date": "2024-02-21T19:28:40.590000+00:00"
+      }
+    ],
+    "likes": [
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      },
+      {
+        "_id": "65b15c27b0e0d08352867488"
+      },
+      {
+        "_id": "65cf9ef1aef4851520995ee6"
+      },
+      {
+        "_id": "65cfc198aef4851520996e8d"
+      },
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "dislikes": [],
+    "date": "2024-02-16T16:04:39.507000+00:00"
+  },
+  {
+    "_id": "65b5f03d83ef72b335666c63",
+    "userid": "65ac597b216798d2d663b5b3",
+    "title": "Omega Chat",
+    "description": "How much time should there be until chats delete in omega chat. I think its an hour rn. ",
+    "contentType": null,
+    "content": null,
+    "comments": [
+      {
+        "_id": "74340",
+        "userid": "65ac597b216798d2d663b5b3",
+        "postId": "65b5f03d83ef72b335666c63",
+        "text": "Write something",
+        "date": "2024-01-28T06:12:26.911000+00:00"
+      },
+      {
+        "_id": "74003",
+        "userid": "65b01833a13934d23869d8c5",
+        "postId": "65b5f03d83ef72b335666c63",
+        "text": "30 minuts ",
+        "date": "2024-02-07T19:52:29.011000+00:00"
+      }
+    ],
+    "likes": [
+      {
+        "_id": "65b0012ba13934d23869d74c"
+      }
+    ],
+    "dislikes": [],
+    "date": "2024-01-28T06:12:13.719000+00:00"
+  },
+  {
+    "_id": "65b07a888be90330d6307c61",
+    "userid": "65ac597b216798d2d663b5b3",
+    "title": "What da fwip",
+    "description": "Cat angy 😾😾😾😾😡😡",
+    "contentType": "video",
+    "content": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/post-content/bro is mad_96169.bin",
+    "comments": [],
+    "likes": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65ac8c30274f4571d4642c94"
+      },
+      {
+        "_id": "65b14c38b0e0d0835286726b"
+      },
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      },
+      {
+        "_id": "65b0012ba13934d23869d74c"
+      }
+    ],
+    "dislikes": [
+      {
+        "_id": "65cf7b6baef4851520995c03"
+      }
+    ],
+    "date": "2024-01-24T02:48:40.958000+00:00"
+  },
+  {
+    "_id": "65b07c0ab0e0d083528670d4",
+    "userid": "65ac597b216798d2d663b5b3",
+    "title": "Bye Bye",
+    "description": "I cannot lose my e-, i mean mewing streak of 758493 # days !1!!",
+    "contentType": "yt",
+    "content": "https://youtu.be/9wZY6YmEH8E?si=WBfCbRS-0WSawfm7",
+    "comments": [
+      {
+        "_id": "45204",
+        "userid": "65ac5a64216798d2d663b5c7",
+        "postId": "65b07c0ab0e0d083528670d4",
+        "text": "test",
+        "date": "2024-01-26T22:51:49.058000+00:00"
+      }
+    ],
+    "likes": [
+      {
+        "_id": "65ae9396274f4571d4642f21"
+      },
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      }
+    ],
+    "dislikes": [
+      {
+        "_id": "65b14c38b0e0d0835286726b"
+      },
+      {
+        "_id": "65cf7b6baef4851520995c03"
+      }
+    ],
+    "date": "2024-01-24T02:55:06.850000+00:00"
+  }
+]

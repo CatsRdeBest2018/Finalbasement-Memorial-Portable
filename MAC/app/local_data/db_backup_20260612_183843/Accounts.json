@@ -1,0 +1,58 @@
+[
+  {
+    "username": "localTest",
+    "password": "hi",
+    "aboutMe": "test",
+    "avatarPath": "local_data/files/profile-images/390873.png",
+    "friends": [
+      {
+        "_id": "73f40a0f-1b83-4ae3-92c7-33cde6f3e9e6"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": true,
+      "date": "2026-06-12 22:34:58.705097"
+    },
+    "dateCreated": "2026-06-12 21:22:43.313095",
+    "_id": "841a5690-e93e-4dc6-88b9-0ea3c1843f51"
+  },
+  {
+    "username": "localTest2",
+    "password": "hello",
+    "aboutMe": null,
+    "avatarPath": "local_data/files/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "841a5690-e93e-4dc6-88b9-0ea3c1843f51"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "localTest Accepted your friend request yay",
+        "type": "Success",
+        "time": "2026-06-12 22:31:52.289998"
+      }
+    ],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": true,
+      "date": "2026-06-12 22:32:30.167908"
+    },
+    "dateCreated": "2026-06-12 22:31:33.578949",
+    "_id": "73f40a0f-1b83-4ae3-92c7-33cde6f3e9e6"
+  }
+]

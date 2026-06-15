@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "OMEGA_CHAT",
+    "title": "Omega Chat",
+    "description": "anyone is here",
+    "people": [],
+    "history": [
+      {
+        "_id": "79063",
+        "text": "yoooo",
+        "userid": "c5b5efa8b5494a198547fb5bbeba3454",
+        "username": "localTest",
+        "path": "local_data/files/profile-images/guest.png",
+        "date": "2026-06-16T01:22:54.971168"
+      },
+      {
+        "_id": "08551",
+        "text": "!rain 😊",
+        "userid": "3e99c61c7b014e7eaa05918c6655c6e0",
+        "username": "localTest2",
+        "path": "local_data/files/profile-images/640109.png",
+        "date": "2026-06-16T01:23:04.664306"
+      }
+    ],
+    "isRandom": false
+  }
+]
