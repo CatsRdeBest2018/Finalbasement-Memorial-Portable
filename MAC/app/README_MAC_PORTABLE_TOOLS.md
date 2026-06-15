@@ -1,39 +1,44 @@
-# FinalBasement Mac Portable Tools v3
+# FinalBasement Mac Portable Tools v5
 
-This version fixes the Python 3.14 problem.
+This version improves the background online cleanup.
 
-Your log showed Python 3.14 trying to install `Pillow==10.2.0`.
-That package is too old for Python 3.14, so the build fails.
+## What changed
 
-Use Python 3.12 for this project.
+The launcher now:
+- prints `[loop] Background cleanup loop started`
+- prints a heartbeat every minute showing who is online
+- accepts `True`, `"True"`, and `1` as online values
+- sets users offline with dot updates:
+  - `active.online = False`
+  - `active.date = <now>`
+- prints when it turns someone offline
 
-## Steps
+## Use
 
-1. Install Python 3.12 on the Mac.
-2. Verify:
-
-```bash
-python3.12 --version
-```
-
-3. Put these files inside:
-
-```text
-finalbasement-localized/app/
-```
-
-4. Run:
+Replace old Mac tool files with these, then run:
 
 ```bash
 bash build_portable_mac.command
 ```
 
-It creates:
+Use the new output:
 
 ```text
 portable_build/FinalBasement_Portable_mac.zip
 ```
 
-## Do not use Python 3.14 for this build
+## What to check
 
-The script now specifically looks for `python3.12` and stops if it cannot find it.
+When you launch the portable app, the Terminal window should show:
+
+```text
+[loop] Background cleanup loop started
+```
+
+After a minute, it should show something like:
+
+```text
+[loop] heartbeat: currently online = [...]
+```
+
+After 5 minutes idle, it should print the account it set offline.
