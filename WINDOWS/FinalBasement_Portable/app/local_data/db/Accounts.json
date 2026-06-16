@@ -1,0 +1,2848 @@
+[
+  {
+    "_id": "65d6a0e1782f44ba1ad608a9",
+    "username": "Demon 2",
+    "password": "Oros2!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "joey Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-26T20:21:57.433000+00:00"
+      }
+    ],
+    "balance": [],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You sent 10.0 EC to joey",
+        "type": "Success",
+        "time": "2024-02-26T20:24:07.729000+00:00"
+      }
+    ],
+    "onLeaderboard": false,
+    "miners": [
+      {
+        "_id": "42387",
+        "name": "Miner",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-27T13:08:33.504000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-27T13:11:23.133000+00:00"
+    },
+    "dateCreated": "2024-02-22T01:18:25.351000+00:00"
+  },
+  {
+    "_id": "65bd41964ef6d8dfd0d26b12",
+    "username": "danspencer2024",
+    "password": "fuckme",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2026-06-15T18:50:50.637032"
+    },
+    "dateCreated": "2024-02-02T19:25:10.876000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b1888ab0e0d0835286751e",
+    "username": "Tyoh090",
+    "password": "Surfhunter58",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T16:33:50.860000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.395000+00:00",
+    "balance": [
+      {
+        "_id": "65cf9ea1aef4851520995edd"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b15c27b0e0d08352867488",
+    "username": "Dijon_ballz",
+    "password": "1234",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/938959.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      }
+    ],
+    "friendRequests": [
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      }
+    ],
+    "inbox": [
+      {
+        "msg": "ethan Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-01-24T21:12:04.009000+00:00"
+      },
+      {
+        "msg": "Weddie Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T17:26:07.325000+00:00"
+      }
+    ],
+    "status": "Admin",
+    "active": {
+      "online": false,
+      "date": "2024-02-16T19:24:25.128000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.324000+00:00",
+    "balance": [
+      {
+        "_id": "65ca41b81d1c7dd4e7defa50"
+      },
+      {
+        "_id": "65ce2a11c7b36967983bddf5"
+      },
+      {
+        "_id": "65ce2a11c7b36967983bddf7"
+      },
+      {
+        "_id": "65ce2a11c7b36967983bddf9"
+      },
+      {
+        "_id": "65ce2a12c7b36967983bddfb"
+      },
+      {
+        "_id": "65ce2a12c7b36967983bddfd"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You requested 10.0 EC from: ethan",
+        "type": "Warning",
+        "time": "2024-02-16T19:21:01.069000+00:00"
+      },
+      {
+        "msg": "ethan declined your request of 10.0",
+        "type": "Error",
+        "time": "2024-02-16T19:49:45.530000+00:00"
+      }
+    ],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65d75065782f44ba1ad60b36",
+    "username": "ethanAlt5",
+    "password": "Fluffy7!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65d750d4782f44ba1ad60b45"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T14:04:23.816000+00:00"
+    },
+    "dateCreated": "2024-02-22T13:47:17.725000+00:00"
+  },
+  {
+    "_id": "65d6a07d782f44ba1ad608a2",
+    "username": "Demon",
+    "password": "3212010!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T17:35:13.977000+00:00"
+    },
+    "dateCreated": "2024-02-22T01:16:45.279000+00:00"
+  },
+  {
+    "_id": "65b3bfb610f9ba821067e136",
+    "username": "joey",
+    "password": "Lucky2018",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      },
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "Weddie Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T17:26:10.050000+00:00"
+      },
+      {
+        "msg": "ethan Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T19:36:37.009000+00:00"
+      },
+      {
+        "msg": "Demon 2 has unfriended you bruh",
+        "type": "Error",
+        "time": "2024-02-26T20:26:56.053000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-04-03T14:26:34.592000+00:00"
+    },
+    "dateCreated": "2024-01-26T14:20:38.821000+00:00",
+    "balance": [
+      {
+        "_id": "65dcee682cf5d384aca86904"
+      },
+      {
+        "_id": "65dcee922cf5d384aca86914"
+      },
+      {
+        "_id": "65dcee9f2cf5d384aca86923"
+      },
+      {
+        "_id": "65dceead2cf5d384aca86930"
+      },
+      {
+        "_id": "65dcf0f22cf5d384aca869cc"
+      },
+      {
+        "_id": "65dcf0f22cf5d384aca869ce"
+      },
+      {
+        "_id": "65dcf0f22cf5d384aca869d0"
+      },
+      {
+        "_id": "65dcf3652cf5d384aca86a0f"
+      },
+      {
+        "_id": "65dcf3652cf5d384aca86a10"
+      },
+      {
+        "_id": "65dcf3652cf5d384aca86a11"
+      },
+      {
+        "_id": "65dcf3652cf5d384aca86a12"
+      },
+      {
+        "_id": "65dcf3662cf5d384aca86a13"
+      },
+      {
+        "_id": "65dcf3662cf5d384aca86a14"
+      },
+      {
+        "_id": "65dcf3662cf5d384aca86a15"
+      },
+      {
+        "_id": "65dcf3662cf5d384aca86a16"
+      },
+      {
+        "_id": "65dcf3672cf5d384aca86a17"
+      },
+      {
+        "_id": "65dcf3672cf5d384aca86a18"
+      },
+      {
+        "_id": "65ddf6b658e11334dfc93f49"
+      },
+      {
+        "_id": "65ddf6b658e11334dfc93f4b"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "ethan Sent you 0.2 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-17T22:16:15.644000+00:00"
+      },
+      {
+        "msg": "ethan Sent you 0.198 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-17T22:18:37.587000+00:00"
+      },
+      {
+        "msg": "Demon 2 Sent you 10.0 EC, \"hey pookie this is ethan\"",
+        "type": "Success",
+        "time": "2024-02-26T20:24:07.662000+00:00"
+      }
+    ],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b01833a13934d23869d8c5",
+    "username": "YogurtMale",
+    "password": "TheGreenMan1",
+    "aboutMe": "One thing I don't know why It doesn't even matter how hard you try Keep that in mind, I designed this rhyme To explain in due time All I know Time is a valuable thing Watch it fly by as the pendulum swings Watch it count down to the end of the day The clock ticks life awayIt's so unreal Didn't look out below Watch the time go right out the window Tryin' to hold on, did-didn't even know I wasted it all just to watch you go I kept everything inside and even though I tried It all fell apart What it meant to me will eventually Be a memory of a time when I tried so hard I tried so hard and got so far But in the end it doesn't even matter I had to fall to lose it all But in the end it doesn't even matter ",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/271054.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65b0012ba13934d23869d74c"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      },
+      {
+        "_id": "65cfae3baef485152099673d"
+      },
+      {
+        "_id": "65d79ff3782f44ba1ad61221"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "meena.hi Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T19:38:40.653000+00:00"
+      },
+      {
+        "msg": "Silly guy  Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-22T19:28:26.308000+00:00"
+      },
+      {
+        "msg": "Your submission: \"guys i js hit 4 ec \", has been accepted for publication!",
+        "type": "Success",
+        "time": "2024-02-24T18:34:25.969000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-29T22:59:06.785000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.151000+00:00",
+    "balance": [
+      {
+        "_id": "65cf7b5caef4851520995bf8"
+      },
+      {
+        "_id": "65cf7b5caef4851520995bfa"
+      },
+      {
+        "_id": "65cf7b5caef4851520995bfc"
+      },
+      {
+        "_id": "65cf7b5caef4851520995bfe"
+      },
+      {
+        "_id": "65d1394daef485152099bbfa"
+      },
+      {
+        "_id": "65d79798782f44ba1ad6119c"
+      },
+      {
+        "_id": "65d799b3782f44ba1ad611ad"
+      },
+      {
+        "_id": "65d79a58782f44ba1ad611be"
+      },
+      {
+        "_id": "65d7a17c782f44ba1ad6127a"
+      },
+      {
+        "_id": "65d7a1a8782f44ba1ad6127f"
+      },
+      {
+        "_id": "65d7a1a8782f44ba1ad61281"
+      },
+      {
+        "_id": "65d7a1a8782f44ba1ad61283"
+      },
+      {
+        "_id": "65d7a1f0782f44ba1ad61288"
+      },
+      {
+        "_id": "65d7a1f0782f44ba1ad6128a"
+      },
+      {
+        "_id": "65d7a1f1782f44ba1ad6128c"
+      },
+      {
+        "_id": "65d7a20c782f44ba1ad61291"
+      },
+      {
+        "_id": "65d7a20c782f44ba1ad61293"
+      },
+      {
+        "_id": "65d7a20c782f44ba1ad61295"
+      },
+      {
+        "_id": "65d7a28b782f44ba1ad6129e"
+      },
+      {
+        "_id": "65d7a28b782f44ba1ad612a0"
+      },
+      {
+        "_id": "65d7a28c782f44ba1ad612a2"
+      },
+      {
+        "_id": "65d7a44a782f44ba1ad612c1"
+      },
+      {
+        "_id": "65d7a45b782f44ba1ad612c6"
+      },
+      {
+        "_id": "65d7a49f782f44ba1ad612d4"
+      },
+      {
+        "_id": "65d7a4cb782f44ba1ad612d9"
+      },
+      {
+        "_id": "65d7a4ec782f44ba1ad612df"
+      },
+      {
+        "_id": "65d7a52f782f44ba1ad612eb"
+      },
+      {
+        "_id": "65d7a6ed782f44ba1ad612f9"
+      },
+      {
+        "_id": "65d7a70a782f44ba1ad61304"
+      },
+      {
+        "_id": "65d7a72a782f44ba1ad6130d"
+      },
+      {
+        "_id": "65d8d34d782f44ba1ad6151f"
+      },
+      {
+        "_id": "65d8d4a0782f44ba1ad61557"
+      },
+      {
+        "_id": "65d8d4be782f44ba1ad61561"
+      },
+      {
+        "_id": "65d8d4f0782f44ba1ad61569"
+      },
+      {
+        "_id": "65d8d507782f44ba1ad61573"
+      },
+      {
+        "_id": "65d8d53c782f44ba1ad61583"
+      },
+      {
+        "_id": "65d8d559782f44ba1ad6158a"
+      },
+      {
+        "_id": "65d8d591782f44ba1ad61597"
+      },
+      {
+        "_id": "6622bd43d63e906be3fc91d0"
+      }
+    ],
+    "requests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "msg": "pls",
+        "amount": 99.0,
+        "date": "2024-02-16T19:50:59.002000+00:00"
+      }
+    ],
+    "transactions": [
+      {
+        "msg": "You purchased item \"Mewing tutorial\" for 0.1 EC from ethan",
+        "type": "Warning",
+        "time": "2024-02-17T22:55:10.726000+00:00"
+      },
+      {
+        "msg": "You purchased item \"Eddies feet picks\" for 1.0 EC from Weddie",
+        "type": "Warning",
+        "time": "2024-02-21T17:47:56.332000+00:00"
+      },
+      {
+        "msg": "You sent 50.0 EC to Silly guy ",
+        "type": "Success",
+        "time": "2024-02-22T19:30:32.611000+00:00"
+      },
+      {
+        "msg": "You sent 5.0 EC to Silly guy ",
+        "type": "Success",
+        "time": "2024-02-22T19:42:31.383000+00:00"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": [
+      {
+        "_id": "72906",
+        "name": "lamar",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-22T20:01:47.009000+00:00"
+      },
+      {
+        "_id": "23699",
+        "name": "jaquise",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-21T18:27:28.995000+00:00"
+      },
+      {
+        "_id": "72838",
+        "name": "connor",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-21T18:26:37.479000+00:00"
+      }
+    ]
+  },
+  {
+    "_id": "65ca58fb1d1c7dd4e7defda9",
+    "username": "Cheddar Chesse",
+    "password": "URMOM",
+    "aboutMe": "Theo is the sexiest man alive ",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65cfca92aef4851520996eed"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "Riverhackerton Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T20:51:39.397000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-27T13:21:08.410000+00:00"
+    },
+    "dateCreated": "2024-02-12T17:44:27.272000+00:00",
+    "balance": [
+      {
+        "_id": "65dde03ca14227b244029ad1"
+      },
+      {
+        "_id": "65dde03da14227b244029ad3"
+      },
+      {
+        "_id": "65dde03da14227b244029ad5"
+      },
+      {
+        "_id": "660e990df49c97c0f3cf1b22"
+      },
+      {
+        "_id": "660e990df49c97c0f3cf1b24"
+      },
+      {
+        "_id": "660e990ef49c97c0f3cf1b26"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You purchased item \"Eddies feet picks\" for 1.0 EC from Weddie",
+        "type": "Warning",
+        "time": "2024-02-27T13:19:20.545000+00:00"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": [
+      {
+        "_id": "56815",
+        "name": "Ethan ",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-27T13:19:45.801000+00:00"
+      }
+    ]
+  },
+  {
+    "_id": "65ccf846ec684f5810549a7c",
+    "username": "Nerf Derftin ",
+    "password": "An3RICA1776",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/372839.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65ccf879ec684f5810549ab2"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-17T22:19:14.371000+00:00"
+    },
+    "dateCreated": "2024-02-14T17:28:38.091000+00:00",
+    "onLeaderboard": false,
+    "miners": [
+      {
+        "_id": "19953",
+        "name": "",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-20T19:11:18.479000+00:00"
+      }
+    ]
+  },
+  {
+    "_id": "65b15049b0e0d0835286729f",
+    "username": "little_pluh",
+    "password": "Midv1lle!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/496319.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65cf9ef1aef4851520995ee6"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "\"nig eh 30\", From: ethan",
+        "type": "warning",
+        "time": "2024-01-26T13:29:28.581000+00:00"
+      },
+      {
+        "msg": "faithan_goat Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T18:23:35.075000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2026-06-16T01:35:11.162077"
+    },
+    "dateCreated": "2024-01-24T23:36:42.253000+00:00",
+    "balance": [
+      {
+        "_id": "65d8ac8f782f44ba1ad61485"
+      },
+      {
+        "_id": "65d8b6ba782f44ba1ad614a6"
+      },
+      {
+        "_id": "65d8b6c5782f44ba1ad614ab"
+      },
+      {
+        "_id": "65d8d800782f44ba1ad615c5"
+      },
+      {
+        "_id": "65db6edad34cb3e289efd7e2"
+      },
+      {
+        "_id": "65db6f8bd34cb3e289efd806"
+      },
+      {
+        "_id": "65db6f8bd34cb3e289efd807"
+      },
+      {
+        "_id": "65db6f8bd34cb3e289efd808"
+      },
+      {
+        "_id": "65db6facd34cb3e289efd81c"
+      },
+      {
+        "_id": "65db6facd34cb3e289efd81d"
+      },
+      {
+        "_id": "65db6facd34cb3e289efd81e"
+      },
+      {
+        "_id": "65dd150d933aae12f8b8d85a"
+      },
+      {
+        "_id": "65e505c3278167918a702e6b"
+      },
+      {
+        "_id": "65e50753278167918a702e8a"
+      },
+      {
+        "_id": "65e507d3278167918a702ea3"
+      },
+      {
+        "_id": "65e54ee7f50d0ddc87a5527f"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You sent 1.0 EC to ethan",
+        "type": "Success",
+        "time": "2024-02-16T14:34:43.834000+00:00"
+      },
+      {
+        "msg": "You sent 0.001 EC to ethan",
+        "type": "Success",
+        "time": "2024-02-16T14:35:10.235000+00:00"
+      },
+      {
+        "msg": "You sent 0.5 EC to faithan_goat",
+        "type": "Success",
+        "time": "2024-02-16T18:24:54.657000+00:00"
+      },
+      {
+        "msg": "You purchased item \"Mewing tutorial\" for 0.1 EC from ethan",
+        "type": "Warning",
+        "time": "2024-02-17T07:25:11.900000+00:00"
+      },
+      {
+        "msg": "You requested 4.0 EC from: ethan",
+        "type": "Warning",
+        "time": "2024-02-21T20:05:55.633000+00:00"
+      },
+      {
+        "msg": "You purchased item \"Gimme money\" for 0.01 EC from EPICdave+",
+        "type": "Warning",
+        "time": "2024-02-23T17:38:10.817000+00:00"
+      },
+      {
+        "msg": "ethan declined your request of 4.0",
+        "type": "Error",
+        "time": "2024-02-24T22:39:32.616000+00:00"
+      },
+      {
+        "msg": "Your item \"brooks feet pics\" was purchased by ethanAlt for 5.0 EC",
+        "type": "Success",
+        "time": "2024-02-25T16:49:48.492000+00:00"
+      },
+      {
+        "msg": "You sent 7.0 EC to ethan",
+        "type": "Success",
+        "time": "2024-02-25T16:50:50.484000+00:00"
+      },
+      {
+        "msg": "You requested 7.0 EC from: ethan",
+        "type": "Warning",
+        "time": "2024-02-26T15:18:44.715000+00:00"
+      },
+      {
+        "msg": "ethan declined your request of 7.0",
+        "type": "Error",
+        "time": "2024-02-26T21:24:40.204000+00:00"
+      },
+      {
+        "msg": "You requested 2.0 EC from: ethan",
+        "type": "Warning",
+        "time": "2024-03-01T14:07:51.157000+00:00"
+      },
+      {
+        "msg": "ethan declined your request of 2.0",
+        "type": "Error",
+        "time": "2024-03-01T15:09:45.763000+00:00"
+      }
+    ],
+    "onLeaderboard": false,
+    "miners": [
+      {
+        "_id": "27786",
+        "name": "Villager",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-01T15:14:37.084000+00:00"
+      },
+      {
+        "_id": "32207",
+        "name": "temu sweatshop worker",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-01T15:14:42.323000+00:00"
+      },
+      {
+        "_id": "52635",
+        "name": "",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-01T15:14:51.315000+00:00"
+      }
+    ]
+  },
+  {
+    "_id": "65ce6bb2b2dba3e857161eaa",
+    "username": "ttt",
+    "password": "ecfsoskar28",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ce685ac7b36967983be01d"
+      },
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [
+      {
+        "_id": "65b3bfb610f9ba821067e136"
+      }
+    ],
+    "inbox": [
+      {
+        "msg": "qqq Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-15T19:55:24.170000+00:00"
+      },
+      {
+        "msg": "ethan Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T13:55:02.236000+00:00"
+      }
+    ],
+    "balance": [
+      {
+        "_id": "65df7a67b53d16bee3002115"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "qqq Sent you 80.0 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-15T20:00:56.835000+00:00"
+      },
+      {
+        "msg": "qqq Sent you 0.001 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-15T20:01:22.647000+00:00"
+      },
+      {
+        "msg": "qqq Sent you 0.001 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-16T13:42:57+00:00"
+      },
+      {
+        "msg": "qqq Sent you 0.001 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-16T13:43:04.206000+00:00"
+      },
+      {
+        "msg": "qqq Sent you 0.069 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-16T13:44:09.531000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-28T18:24:39.688000+00:00"
+    },
+    "dateCreated": "2024-02-15T19:53:22.004000+00:00",
+    "onLeaderboard": true,
+    "miners": []
+  },
+  {
+    "_id": "65cfae3baef485152099673d",
+    "username": "meena.hi",
+    "password": "Emma1215!@",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65cfae88aef485152099678d"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-29T01:44:26.192000+00:00"
+    },
+    "dateCreated": "2024-02-16T18:49:31.067000+00:00",
+    "miners": [],
+    "onLeaderboard": false
+  },
+  {
+    "_id": "65b0012ba13934d23869d74c",
+    "username": "TheBringerOfHappiness",
+    "password": "Eddie",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      },
+      {
+        "_id": "65c51a011d1c7dd4e7dec3e8"
+      }
+    ],
+    "friendRequests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "inbox": [
+      {
+        "msg": "ethan has unfriended you bruh",
+        "type": "Error",
+        "time": "2024-01-29T16:09:05.649000+00:00"
+      },
+      {
+        "msg": "JaanA2028 Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-08T18:26:20.842000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-12T20:47:34.131000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.081000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65ca532f1d1c7dd4e7defc04",
+    "username": "Riley",
+    "password": "YOURNOTGETTINGTHIS",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/234399.png",
+    "friends": [
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "Weddie Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-16T17:26:16.314000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T17:32:10.075000+00:00"
+    },
+    "dateCreated": "2024-02-12T17:19:43.453000+00:00",
+    "balance": [
+      {
+        "_id": "65d784f3782f44ba1ad61090"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "6605917b6d425d12ba2c22dc",
+    "username": "SEX BEAST",
+    "password": "sexbeast",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-03-28T15:51:02.904000+00:00"
+    },
+    "dateCreated": "2024-03-28T15:49:15.540000+00:00"
+  },
+  {
+    "_id": "65de696558e11334dfc94144",
+    "username": "CounselorSamantha",
+    "password": "BT:.ZR5WttWQCYt",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-03-27T21:19:03.806000+00:00"
+    },
+    "dateCreated": "2024-02-27T22:59:49.576000+00:00"
+  },
+  {
+    "_id": "65e0ddad8a7496d0aa5e0d14",
+    "username": "Travis Dumais",
+    "password": "005maryc",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "ethan Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-04-04T01:24:22.987000+00:00"
+      }
+    ],
+    "balance": [
+      {
+        "_id": "65e0e0eb8a7496d0aa5e0d81"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-03-01T02:09:46.794000+00:00"
+    },
+    "dateCreated": "2024-02-29T19:40:29.934000+00:00"
+  },
+  {
+    "_id": "65ac8bff274f4571d4642c8d",
+    "username": "jronysko",
+    "password": "Midv1lle!",
+    "aboutMe": "I am Grogu ",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac8c30274f4571d4642c94"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "ethan Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-01-21T03:15:36.886000+00:00"
+      },
+      {
+        "msg": "\"Hi dad\", From: ethan",
+        "type": "warning",
+        "time": "2024-01-21T03:15:49.611000+00:00"
+      },
+      {
+        "msg": "Hhurlburt Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-01-21T03:20:28.467000+00:00"
+      },
+      {
+        "msg": "ethan has unfriended you bruh",
+        "type": "Error",
+        "time": "2024-01-22T23:27:15.747000+00:00"
+      },
+      {
+        "msg": "\"JACKASS\", From: Hhurlburt",
+        "type": "warning",
+        "time": "2024-01-27T01:55:21.625000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-03-02T01:27:14.350000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:41.904000+00:00",
+    "balance": [
+      {
+        "_id": "65ce78dcb2dba3e8571621f4"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65ce685ac7b36967983be01d",
+    "username": "qqq",
+    "password": "qqq",
+    "aboutMe": "money laundering",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ce6bb2b2dba3e857161eaa"
+      }
+    ],
+    "friendRequests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65cf66a9b2dba3e8571627df"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You sent 0.001 EC to ttt",
+        "type": "Success",
+        "time": "2024-02-16T13:42:57.067000+00:00"
+      },
+      {
+        "msg": "You sent 0.001 EC to ttt",
+        "type": "Success",
+        "time": "2024-02-16T13:43:04.273000+00:00"
+      },
+      {
+        "msg": "You sent 0.069 EC to ttt",
+        "type": "Success",
+        "time": "2024-02-16T13:44:09.597000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-04-01T15:05:58.852000+00:00"
+    },
+    "dateCreated": "2024-02-15T19:39:06.517000+00:00",
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b150d5b0e0d083528672b2",
+    "username": "13131",
+    "password": "1",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "type": "warning",
+        "time": "2024-01-24T18:21:34.231000+00:00"
+      },
+      {
+        "msg": "ethan has unfriended you bruh",
+        "type": "Error",
+        "time": "2024-02-17T22:19:29.370000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-02T19:11:19.755000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.288000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65c51a011d1c7dd4e7dec3e8",
+    "username": "EthanOnysko",
+    "password": "Hiimjaan2921",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      },
+      {
+        "_id": "65b0012ba13934d23869d74c"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "The twin tower's Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-08T18:20:59.296000+00:00"
+      },
+      {
+        "msg": "\"For real\", From: The twin tower's",
+        "type": "warning",
+        "time": "2024-02-08T18:24:11.129000+00:00"
+      },
+      {
+        "msg": "\"I could smash\", From: The twin tower's",
+        "type": "warning",
+        "time": "2024-02-08T18:24:18.826000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-08T18:27:05.838000+00:00"
+    },
+    "dateCreated": "2024-02-08T18:14:25.678000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65d74eed782f44ba1ad60b18",
+    "username": "ethanAlt2",
+    "password": "Fluffy7!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T14:04:23.558000+00:00"
+    },
+    "dateCreated": "2024-02-22T13:41:01.017000+00:00"
+  },
+  {
+    "_id": "65b33edd35926fbf630b027a",
+    "username": "Username ",
+    "password": "SkiTheEast",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/190491.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "Your submission: \"Joe The Gayist \", has been accepted for publication!",
+        "type": "Success",
+        "time": "2024-01-26T14:20:02.184000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-01-26T11:34:17.318000+00:00"
+    },
+    "dateCreated": "2024-01-26T05:10:53.077000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65cfc198aef4851520996e8d",
+    "username": "Grady ",
+    "password": "sehby6-vifveq-rigMez",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-16T20:13:15.459000+00:00"
+    },
+    "dateCreated": "2024-02-16T20:12:08.677000+00:00",
+    "miners": [],
+    "onLeaderboard": false
+  },
+  {
+    "_id": "65ca4dc61d1c7dd4e7defb75",
+    "username": "himelman56",
+    "password": "123456",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/959133.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-12T16:56:42.969000+00:00"
+    },
+    "dateCreated": "2024-02-12T16:56:38.784000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65d79ff3782f44ba1ad61221",
+    "username": "Silly guy ",
+    "password": "urgay",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65d7a0c8782f44ba1ad61239"
+      },
+      {
+        "_id": "65d7a0c8782f44ba1ad6123a"
+      },
+      {
+        "_id": "65d7a0c9782f44ba1ad6123b"
+      },
+      {
+        "_id": "65d7a0c9782f44ba1ad6123c"
+      },
+      {
+        "_id": "65d7a0c9782f44ba1ad6123d"
+      },
+      {
+        "_id": "65d7a0ca782f44ba1ad6123e"
+      },
+      {
+        "_id": "65d7a0ca782f44ba1ad6123f"
+      },
+      {
+        "_id": "65d7a0ca782f44ba1ad61240"
+      },
+      {
+        "_id": "65d7a0cb782f44ba1ad61241"
+      },
+      {
+        "_id": "65d7a0cb782f44ba1ad61242"
+      },
+      {
+        "_id": "65d7a0cb782f44ba1ad61243"
+      },
+      {
+        "_id": "65d7a0cc782f44ba1ad61244"
+      },
+      {
+        "_id": "65d7a0cc782f44ba1ad61245"
+      },
+      {
+        "_id": "65d7a0cc782f44ba1ad61246"
+      },
+      {
+        "_id": "65d7a0cd782f44ba1ad61247"
+      },
+      {
+        "_id": "65d7a0cd782f44ba1ad61248"
+      },
+      {
+        "_id": "65d7a0cd782f44ba1ad61249"
+      },
+      {
+        "_id": "65d7a0cd782f44ba1ad6124a"
+      },
+      {
+        "_id": "65d7a0ce782f44ba1ad6124b"
+      },
+      {
+        "_id": "65d7a0ce782f44ba1ad6124c"
+      },
+      {
+        "_id": "65d7a0ce782f44ba1ad6124d"
+      },
+      {
+        "_id": "65d7a0cf782f44ba1ad6124e"
+      },
+      {
+        "_id": "65d7a0cf782f44ba1ad6124f"
+      },
+      {
+        "_id": "65d7a0cf782f44ba1ad61250"
+      },
+      {
+        "_id": "65d7a0d0782f44ba1ad61251"
+      },
+      {
+        "_id": "65d7a0d0782f44ba1ad61252"
+      },
+      {
+        "_id": "65d7a0d0782f44ba1ad61253"
+      },
+      {
+        "_id": "65d7a0d1782f44ba1ad61254"
+      },
+      {
+        "_id": "65d7a0d1782f44ba1ad61255"
+      },
+      {
+        "_id": "65d7a0d1782f44ba1ad61256"
+      },
+      {
+        "_id": "65d7a0d2782f44ba1ad61257"
+      },
+      {
+        "_id": "65d7a0d2782f44ba1ad61258"
+      },
+      {
+        "_id": "65d7a0d2782f44ba1ad61259"
+      },
+      {
+        "_id": "65d7a0d3782f44ba1ad6125a"
+      },
+      {
+        "_id": "65d7a0d3782f44ba1ad6125b"
+      },
+      {
+        "_id": "65d7a0d3782f44ba1ad6125d"
+      },
+      {
+        "_id": "65d7a0d3782f44ba1ad6125e"
+      },
+      {
+        "_id": "65d7a0d4782f44ba1ad6125f"
+      },
+      {
+        "_id": "65d7a0d4782f44ba1ad61260"
+      },
+      {
+        "_id": "65d7a0d5782f44ba1ad61261"
+      },
+      {
+        "_id": "65d7a0d5782f44ba1ad61262"
+      },
+      {
+        "_id": "65d7a0d5782f44ba1ad61263"
+      },
+      {
+        "_id": "65d7a0d5782f44ba1ad61264"
+      },
+      {
+        "_id": "65d7a0d6782f44ba1ad61265"
+      },
+      {
+        "_id": "65d7a0d6782f44ba1ad61266"
+      },
+      {
+        "_id": "65d7a0d6782f44ba1ad61267"
+      },
+      {
+        "_id": "65d7a0d7782f44ba1ad61268"
+      },
+      {
+        "_id": "65d7a0d7782f44ba1ad61269"
+      },
+      {
+        "_id": "65d7a0d7782f44ba1ad6126a"
+      },
+      {
+        "_id": "65d7a0d8782f44ba1ad6126b"
+      },
+      {
+        "_id": "65d7a3a5782f44ba1ad612b4"
+      },
+      {
+        "_id": "65d7a3a6782f44ba1ad612b5"
+      },
+      {
+        "_id": "65d7a3a6782f44ba1ad612b6"
+      },
+      {
+        "_id": "65d7a3a6782f44ba1ad612b7"
+      },
+      {
+        "_id": "65d7a3a6782f44ba1ad612b8"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "YogurtMale Sent you 50.0 EC, \"<3\"",
+        "type": "Success",
+        "time": "2024-02-22T19:30:32.533000+00:00"
+      },
+      {
+        "msg": "YogurtMale Sent you 5.0 EC, \"<3\"",
+        "type": "Success",
+        "time": "2024-02-22T19:42:31.302000+00:00"
+      }
+    ],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-23T17:28:01.071000+00:00"
+    },
+    "dateCreated": "2024-02-22T19:26:43.300000+00:00"
+  },
+  {
+    "_id": "65ce6953c7b36967983be119",
+    "username": "User",
+    "password": "SkiTheEast",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/447245.png",
+    "friends": [],
+    "friendRequests": [
+      {
+        "_id": "65ce685ac7b36967983be01d"
+      }
+    ],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65ce6978c7b36967983be12b"
+      },
+      {
+        "_id": "65dcf0a22cf5d384aca86989"
+      },
+      {
+        "_id": "65dcf0a22cf5d384aca8698b"
+      },
+      {
+        "_id": "65dcf0a22cf5d384aca8698d"
+      },
+      {
+        "_id": "65dcf0a22cf5d384aca8698f"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca86991"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca86993"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca86995"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca86997"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca86999"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca8699b"
+      },
+      {
+        "_id": "65dcf0a32cf5d384aca8699d"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca8699f"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca869a1"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca869a3"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca869a5"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca869a7"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca869a9"
+      },
+      {
+        "_id": "65dcf0a42cf5d384aca869ab"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869ad"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869af"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869b1"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869b3"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869b5"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869b7"
+      },
+      {
+        "_id": "65dcf0a52cf5d384aca869b9"
+      },
+      {
+        "_id": "65de3b5158e11334dfc9403e"
+      },
+      {
+        "_id": "65de3b5158e11334dfc94040"
+      },
+      {
+        "_id": "65de3b5258e11334dfc94042"
+      },
+      {
+        "_id": "65de3b5258e11334dfc94044"
+      },
+      {
+        "_id": "65de3b5258e11334dfc94046"
+      },
+      {
+        "_id": "65de3b5258e11334dfc94048"
+      },
+      {
+        "_id": "65de3b5258e11334dfc9404a"
+      },
+      {
+        "_id": "65de3b5258e11334dfc9404c"
+      },
+      {
+        "_id": "65de3b5258e11334dfc9404e"
+      },
+      {
+        "_id": "65de3b5258e11334dfc94050"
+      },
+      {
+        "_id": "65de3b5358e11334dfc94052"
+      },
+      {
+        "_id": "65de3b5358e11334dfc94054"
+      },
+      {
+        "_id": "65de3b5358e11334dfc94056"
+      },
+      {
+        "_id": "65de3b5358e11334dfc94058"
+      },
+      {
+        "_id": "65de3b5358e11334dfc9405a"
+      },
+      {
+        "_id": "65de3b5358e11334dfc9405c"
+      },
+      {
+        "_id": "65de3b5358e11334dfc9405e"
+      },
+      {
+        "_id": "65de3b5458e11334dfc94060"
+      },
+      {
+        "_id": "65de3b5458e11334dfc94062"
+      },
+      {
+        "_id": "65de3b5458e11334dfc94064"
+      },
+      {
+        "_id": "65de3b5458e11334dfc94066"
+      },
+      {
+        "_id": "65de3b5458e11334dfc94068"
+      },
+      {
+        "_id": "65de3b5458e11334dfc9406a"
+      },
+      {
+        "_id": "65de3b5458e11334dfc9406c"
+      },
+      {
+        "_id": "65de3b5558e11334dfc9406e"
+      },
+      {
+        "_id": "65de3b5558e11334dfc94070"
+      },
+      {
+        "_id": "65de3b5558e11334dfc94072"
+      },
+      {
+        "_id": "65de3b5558e11334dfc94074"
+      },
+      {
+        "_id": "65de3b5558e11334dfc94076"
+      },
+      {
+        "_id": "65de3b5558e11334dfc94078"
+      },
+      {
+        "_id": "65de3b5558e11334dfc9407a"
+      },
+      {
+        "_id": "65de3b5658e11334dfc9407c"
+      },
+      {
+        "_id": "65de3b5658e11334dfc9407e"
+      },
+      {
+        "_id": "65de3b5658e11334dfc94080"
+      },
+      {
+        "_id": "65de3b5658e11334dfc94082"
+      },
+      {
+        "_id": "65de3b5658e11334dfc94084"
+      },
+      {
+        "_id": "65de3b5658e11334dfc94086"
+      },
+      {
+        "_id": "65de3b5658e11334dfc94088"
+      },
+      {
+        "_id": "65de3b5658e11334dfc9408a"
+      },
+      {
+        "_id": "65de3b5758e11334dfc9408c"
+      },
+      {
+        "_id": "65de3b5758e11334dfc9408e"
+      },
+      {
+        "_id": "65de3b5758e11334dfc94090"
+      },
+      {
+        "_id": "65de3b5758e11334dfc94092"
+      },
+      {
+        "_id": "65de3b5758e11334dfc94094"
+      },
+      {
+        "_id": "65de3b5758e11334dfc94096"
+      },
+      {
+        "_id": "65de3b5758e11334dfc94098"
+      },
+      {
+        "_id": "65de3b5858e11334dfc9409a"
+      },
+      {
+        "_id": "65de3b5858e11334dfc9409c"
+      },
+      {
+        "_id": "65de3b5858e11334dfc9409e"
+      },
+      {
+        "_id": "65de3b5858e11334dfc940a0"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-03-06T16:37:54.783000+00:00"
+    },
+    "dateCreated": "2024-02-15T19:43:15.586000+00:00",
+    "onLeaderboard": false,
+    "miners": [
+      {
+        "_id": "66015",
+        "name": "Mr. Jankes ",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-06T16:35:25.281000+00:00"
+      },
+      {
+        "_id": "12773",
+        "name": "Mr. Jankes ",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-28T20:07:50.832000+00:00"
+      },
+      {
+        "_id": "73286",
+        "name": "Oskar ",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-06T16:34:06.670000+00:00"
+      },
+      {
+        "_id": "12562",
+        "name": "Oskar ",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-06T16:34:30.116000+00:00"
+      },
+      {
+        "_id": "08977",
+        "name": "Oskar ",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-03-06T16:34:58.394000+00:00"
+      }
+    ]
+  },
+  {
+    "_id": "65b47cce0b2e23d3bbc8235c",
+    "username": "User12345",
+    "password": "12345",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-01-27T03:47:30.009000+00:00"
+    },
+    "dateCreated": "2024-01-27T03:47:26.039000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b00356a13934d23869d7d0",
+    "username": "gemferr",
+    "password": "CLgKc66PpnHZe6N",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/952683.png",
+    "friends": [],
+    "friendRequests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-01-24T23:36:42.116000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.116000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65d7500e782f44ba1ad60b26",
+    "username": "ethanAlt4",
+    "password": "Fluffy7!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T14:04:24.422000+00:00"
+    },
+    "dateCreated": "2024-02-22T13:45:50.926000+00:00"
+  },
+  {
+    "_id": "65cfca92aef4851520996eed",
+    "username": "Riverhackerton",
+    "password": "12345lmao",
+    "aboutMe": "Lmao I hacked",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/158916.png",
+    "friends": [
+      {
+        "_id": "65ca58fb1d1c7dd4e7defda9"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65cfcb43aef4851520996f2d"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-17T02:57:24.760000+00:00"
+    },
+    "dateCreated": "2024-02-16T20:50:26.713000+00:00",
+    "miners": [],
+    "onLeaderboard": false
+  },
+  {
+    "_id": "65cadb9aec684f58105488d1",
+    "username": "Sniperwilliam24 ",
+    "password": "william1980",
+    "aboutMe": "Pp",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65d6cc3e782f44ba1ad60982"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T04:25:01.378000+00:00"
+    },
+    "dateCreated": "2024-02-13T03:01:46.615000+00:00",
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65cc0305ec684f5810549347",
+    "username": "111",
+    "password": "111",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-14T00:02:49.871000+00:00"
+    },
+    "dateCreated": "2024-02-14T00:02:13.746000+00:00",
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65ca52bf1d1c7dd4e7defbc3",
+    "username": "EPICdave",
+    "password": "MEme@#1p",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/977672.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-12T17:19:01.642000+00:00"
+    },
+    "dateCreated": "2024-02-12T17:17:51.960000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b285010c6897ba592b3b2d",
+    "username": "user",
+    "password": "12345",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "Your submission: \"Grady=burger\", has been accepted for publication!",
+        "type": "Success",
+        "time": "2024-01-26T00:06:51.219000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-27T13:00:37.889000+00:00"
+    },
+    "dateCreated": "2024-01-25T15:57:53.921000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65d74fea782f44ba1ad60b1f",
+    "username": "ethanAlt3",
+    "password": "Fluffy7!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-22T14:04:25.946000+00:00"
+    },
+    "dateCreated": "2024-02-22T13:45:14.601000+00:00"
+  },
+  {
+    "_id": "65cfae96aef48515209967a2",
+    "username": "Audrey.bye",
+    "password": "Hippo4321",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-16T18:51:44.466000+00:00"
+    },
+    "dateCreated": "2024-02-16T18:51:02.118000+00:00",
+    "miners": [],
+    "onLeaderboard": false
+  },
+  {
+    "_id": "65bd3e5e4ef6d8dfd0d26a3f",
+    "username": "mia khalifa",
+    "password": "fuckmeharddaddy",
+    "aboutMe": "I'm retired but I'll still do side hustles for EC😉",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "little_pluh Declined your friend request oof",
+        "type": "Error",
+        "time": "2024-02-16T13:56:10.523000+00:00"
+      },
+      {
+        "msg": "\"pls send gyat pics\", From: ethan",
+        "type": "warning",
+        "time": "2024-02-17T21:37:45.084000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-27T18:48:25.563000+00:00"
+    },
+    "dateCreated": "2024-02-02T19:11:26.204000+00:00",
+    "balance": [
+      {
+        "_id": "65d13014aef485152099bab8"
+      },
+      {
+        "_id": "65d5f5d4aef485152099c5d0"
+      },
+      {
+        "_id": "65de2e3e58e11334dfc93fb2"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You requested 0.15 EC from: ethan",
+        "type": "Warning",
+        "time": "2024-02-17T21:37:42.918000+00:00"
+      },
+      {
+        "msg": "ethan accepted your request of 0.15",
+        "type": "Success",
+        "time": "2024-02-17T22:15:48.770000+00:00"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": []
+  },
+  {
+    "_id": "65b14e7eb0e0d08352867292",
+    "username": "rmammmen",
+    "password": "rajibaji",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-16T19:32:47.916000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.219000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65cf7b6baef4851520995c03",
+    "username": "EPICdave+",
+    "password": "MEme@#10",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/485749.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65d785a4782f44ba1ad610bf"
+      },
+      {
+        "_id": "65d8d7b9782f44ba1ad615bc"
+      },
+      {
+        "_id": "65d8d801782f44ba1ad615c7"
+      },
+      {
+        "_id": "65d8d801782f44ba1ad615c8"
+      },
+      {
+        "_id": "65d8d801782f44ba1ad615c9"
+      },
+      {
+        "_id": "65d8d802782f44ba1ad615ca"
+      },
+      {
+        "_id": "65d8d802782f44ba1ad615cb"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-26T17:26:15.791000+00:00"
+    },
+    "dateCreated": "2024-02-16T15:12:43.352000+00:00",
+    "miners": [],
+    "onLeaderboard": false
+  },
+  {
+    "_id": "65ac8c30274f4571d4642c94",
+    "username": "Hhurlburt",
+    "password": "Just1nEth@n",
+    "aboutMe": "I’m Ethan’s mom,  and I’m proud of  him",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/039444.png",
+    "friends": [
+      {
+        "_id": "65ac8bff274f4571d4642c8d"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "ethan has unfriended you bruh",
+        "type": "Error",
+        "time": "2024-01-22T23:27:27.301000+00:00"
+      },
+      {
+        "msg": "ethan has unfriended you bruh",
+        "type": "Error",
+        "time": "2024-02-17T22:19:43.563000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-01-27T02:12:52.298000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:41.938000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65cf9ef1aef4851520995ee6",
+    "username": "faithan_goat",
+    "password": "Abzona33",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65b15049b0e0d0835286729f"
+      }
+    ],
+    "friendRequests": [
+      {
+        "_id": "65b15c27b0e0d08352867488"
+      }
+    ],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65d651b2782f44ba1ad60404"
+      },
+      {
+        "_id": "65d6538c782f44ba1ad6049c"
+      },
+      {
+        "_id": "65d654ad782f44ba1ad6051f"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-21T20:04:24.710000+00:00"
+    },
+    "dateCreated": "2024-02-16T17:44:17.839000+00:00",
+    "miners": [],
+    "onLeaderboard": false
+  },
+  {
+    "_id": "65ac5a64216798d2d663b5c7",
+    "username": "ethanAlt",
+    "password": "Midv1lle!",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-26T03:13:51.386000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:41.869000+00:00",
+    "balance": [],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You sent 0.343 EC to ethan",
+        "type": "Success",
+        "time": "2024-02-25T16:33:54.313000+00:00"
+      },
+      {
+        "msg": "ethan Sent you 0.411 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-25T16:36:29.987000+00:00"
+      },
+      {
+        "msg": "You sent 1.5 EC to ethan",
+        "type": "Success",
+        "time": "2024-02-25T16:37:35.284000+00:00"
+      },
+      {
+        "msg": "ethan Sent you 1.5 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-25T16:38:52.004000+00:00"
+      },
+      {
+        "msg": "You purchased item \"brooks feet pics\" for 5.0 EC from little_pluh",
+        "type": "Warning",
+        "time": "2024-02-25T16:49:48.464000+00:00"
+      },
+      {
+        "msg": "ethan Sent you 2.544 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-25T16:53:21.252000+00:00"
+      },
+      {
+        "msg": "You purchased item \"Test\" for 5.0 EC from ethan",
+        "type": "Warning",
+        "time": "2024-02-25T16:53:30.791000+00:00"
+      },
+      {
+        "msg": "ethan Sent you 2.0 EC, \"\"",
+        "type": "Success",
+        "time": "2024-02-25T16:54:27.453000+00:00"
+      },
+      {
+        "msg": "You purchased item \"Test\" for 5.0 EC from ethan",
+        "type": "Warning",
+        "time": "2024-02-25T16:55:56.050000+00:00"
+      }
+    ],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65ac597b216798d2d663b5b3",
+    "username": "ethan",
+    "password": "Fluffy7!",
+    "aboutMe": "I made this stuff and I think its cool\n",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/962735.png",
+    "friends": [
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      },
+      {
+        "_id": "65b15049b0e0d0835286729f"
+      },
+      {
+        "_id": "65b15c27b0e0d08352867488"
+      },
+      {
+        "_id": "65b285010c6897ba592b3b2d"
+      },
+      {
+        "_id": "65ac5a64216798d2d663b5c7"
+      },
+      {
+        "_id": "65b16f9eb0e0d083528674d5"
+      },
+      {
+        "_id": "65bd3e204ef6d8dfd0d26a00"
+      },
+      {
+        "_id": "65bd3e5e4ef6d8dfd0d26a3f"
+      },
+      {
+        "_id": "65ce6bb2b2dba3e857161eaa"
+      },
+      {
+        "_id": "65b3bfb610f9ba821067e136"
+      },
+      {
+        "_id": "65cfae3baef485152099673d"
+      },
+      {
+        "_id": "65e0ddad8a7496d0aa5e0d14"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "Your submission: \"Cityside\", has been accepted for publication!",
+        "type": "Success",
+        "time": "2024-02-27T18:47:33.833000+00:00"
+      }
+    ],
+    "status": "Admin",
+    "active": {
+      "online": true,
+      "date": "2026-06-16T03:05:19.648388"
+    },
+    "dateCreated": "2024-01-24T23:36:41.833000+00:00",
+    "balance": [
+      {
+        "_id": "6a3098002e1a9269398715ca"
+      },
+      {
+        "_id": "6a30a9872e1a926939871602"
+      },
+      {
+        "_id": "6a30a9872e1a926939871603"
+      },
+      {
+        "_id": "6a30a9872e1a926939871604"
+      },
+      {
+        "_id": "6a30a9d62e1a92693987160a"
+      },
+      {
+        "_id": "6a30a9d62e1a92693987160b"
+      },
+      {
+        "_id": "6a30a9d62e1a92693987160c"
+      },
+      {
+        "_id": "6a30a9d62e1a92693987160d"
+      },
+      {
+        "_id": "6a30a9d72e1a92693987160e"
+      },
+      {
+        "_id": "6a30aa6e2e1a92693987160f"
+      },
+      {
+        "_id": "6a30aa6e2e1a926939871610"
+      },
+      {
+        "_id": "6a30aa6e2e1a926939871611"
+      },
+      {
+        "_id": "6a30aa6e2e1a926939871612"
+      },
+      {
+        "_id": "6a30aa6e2e1a926939871613"
+      },
+      {
+        "_id": "6a30aa922e1a92693987161d"
+      },
+      {
+        "_id": "6a30aa922e1a92693987161e"
+      },
+      {
+        "_id": "6a30aa922e1a92693987161f"
+      },
+      {
+        "_id": "6a30aa922e1a926939871620"
+      },
+      {
+        "_id": "6a30aa922e1a926939871621"
+      },
+      {
+        "_id": "6a30aa922e1a926939871622"
+      },
+      {
+        "_id": "6a30aa922e1a926939871623"
+      },
+      {
+        "_id": "6a30aa922e1a926939871624"
+      },
+      {
+        "_id": "6a30aa922e1a926939871625"
+      },
+      {
+        "_id": "6a30aa922e1a926939871626"
+      },
+      {
+        "_id": "6a30aa922e1a926939871627"
+      },
+      {
+        "_id": "6a30aa922e1a926939871628"
+      },
+      {
+        "_id": "6a30aa922e1a926939871629"
+      },
+      {
+        "_id": "6a30aa922e1a92693987162a"
+      },
+      {
+        "_id": "6a30aa922e1a92693987162b"
+      },
+      {
+        "_id": "6a30aa922e1a92693987162c"
+      },
+      {
+        "_id": "6a30abef2e1a926939871634"
+      },
+      {
+        "_id": "6a30abef2e1a926939871635"
+      },
+      {
+        "_id": "6a30abef2e1a926939871636"
+      },
+      {
+        "_id": "6a30abef2e1a926939871637"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You purchased item \"test\" for 3.0 EC from localTest",
+        "type": "Warning",
+        "time": "2026-06-16T01:39:08.521823"
+      },
+      {
+        "msg": "localTest Sent you 3.0 EC, \"her\"",
+        "type": "Success",
+        "time": "2026-06-16T01:40:23.997773"
+      },
+      {
+        "msg": "You accepted localTest's request of 5.0",
+        "type": "Warning",
+        "time": "2026-06-16T01:41:02.678375"
+      },
+      {
+        "msg": "localTest Sent you 5.0 EC, \"back\"",
+        "type": "Success",
+        "time": "2026-06-16T01:41:43.033507"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": [
+      {
+        "_id": "12514",
+        "name": "dave",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2026-06-16T01:13:48.409415"
+      },
+      {
+        "_id": "67895",
+        "name": "Bob",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2026-06-16T01:15:18.871634"
+      },
+      {
+        "_id": "50199",
+        "name": "miner",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2026-06-16T01:18:30.750939"
+      },
+      {
+        "_id": "69274",
+        "name": "Blud",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2026-06-16T01:18:29.717741"
+      }
+    ],
+    "miningId": {
+      "_id": null,
+      "date": "2024-02-21T21:34:05.388000+00:00"
+    }
+  },
+  {
+    "_id": "65cebd99b2dba3e8571624bf",
+    "username": "rmammen",
+    "password": "Augusta",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [],
+    "friendRequests": [],
+    "inbox": [],
+    "balance": [
+      {
+        "_id": "65dceebf2cf5d384aca8693c"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-26T20:04:19.315000+00:00"
+    },
+    "dateCreated": "2024-02-16T01:42:49.469000+00:00",
+    "miners": [
+      {
+        "_id": "77801",
+        "name": "brooks",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-26T19:58:51.374000+00:00"
+      },
+      {
+        "_id": "88555",
+        "name": "brooks",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-26T19:59:33.724000+00:00"
+      }
+    ],
+    "onLeaderboard": true
+  },
+  {
+    "_id": "65bd3e204ef6d8dfd0d26a00",
+    "username": "taylor",
+    "password": "hellotaylor",
+    "aboutMe": null,
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-13T00:17:13.784000+00:00"
+    },
+    "dateCreated": "2024-02-02T19:10:24.588000+00:00",
+    "balance": [
+      {
+        "_id": "65cab48389b8bf35e1fe08ba"
+      }
+    ],
+    "requests": [],
+    "transactions": [],
+    "onLeaderboard": false,
+    "miners": []
+  },
+  {
+    "_id": "65b16f9eb0e0d083528674d5",
+    "username": "Weddie",
+    "password": "Sakonnet24!",
+    "aboutMe": "wenagade waider with no honey mustard",
+    "avatarPath": "https://finalbasementbucket.s3.us-east-2.amazonaws.com/profile-images/831215.png",
+    "friends": [
+      {
+        "_id": "65ac597b216798d2d663b5b3"
+      },
+      {
+        "_id": "65b0012ba13934d23869d74c"
+      },
+      {
+        "_id": "65c51a011d1c7dd4e7dec3e8"
+      },
+      {
+        "_id": "65b01833a13934d23869d8c5"
+      },
+      {
+        "_id": "65b15c27b0e0d08352867488"
+      },
+      {
+        "_id": "65b3bfb610f9ba821067e136"
+      },
+      {
+        "_id": "65ca532f1d1c7dd4e7defc04"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "\"conner looking delectible rn \", From: JaanA2028",
+        "type": "warning",
+        "time": "2024-02-08T18:23:06.665000+00:00"
+      },
+      {
+        "msg": "\"conner looking delectible rn \", From: JaanA2028",
+        "type": "warning",
+        "time": "2024-02-08T18:23:12.815000+00:00"
+      },
+      {
+        "msg": "YogurtMale Accepted your friend request yay",
+        "type": "Success",
+        "time": "2024-02-12T17:31:58.387000+00:00"
+      }
+    ],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2024-02-27T14:51:05.229000+00:00"
+    },
+    "dateCreated": "2024-01-24T23:36:42.361000+00:00",
+    "balance": [],
+    "requests": [
+      {
+        "_id": "65ac597b216798d2d663b5b3",
+        "msg": "pls daddy",
+        "amount": 5.0,
+        "date": "2024-02-13T00:45:08.920000+00:00"
+      }
+    ],
+    "transactions": [
+      {
+        "msg": "Your item \"Eddies feet picks\" was purchased by Cheddar Chesse for 1.0 EC",
+        "type": "Success",
+        "time": "2024-02-27T13:19:20.612000+00:00"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": [
+      {
+        "_id": "26438",
+        "name": "Brooks",
+        "level": 1,
+        "status": "Sleeping",
+        "time": "2024-02-22T16:52:53.186000+00:00"
+      }
+    ]
+  },
+  {
+    "username": "localTest",
+    "password": "hi",
+    "aboutMe": null,
+    "avatarPath": "local_data/files/profile-images/guest.png",
+    "friends": [
+      {
+        "_id": "3e99c61c7b014e7eaa05918c6655c6e0"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "ethan Accepted your friend request yay",
+        "type": "Success",
+        "time": "2026-06-16T01:39:56.764797"
+      },
+      {
+        "msg": "ethan has unfriended you bruh",
+        "type": "Error",
+        "time": "2026-06-16T01:55:04.691883"
+      }
+    ],
+    "balance": [],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You redeemed EC worth: 0.01",
+        "type": "Success",
+        "time": "2026-06-16T01:37:19.365089"
+      },
+      {
+        "msg": "You removed EC worth: 0.01",
+        "type": "Warning",
+        "time": "2026-06-16T01:37:34.451652"
+      },
+      {
+        "msg": "Your item \"test\" was purchased by ethan for 3.0 EC",
+        "type": "Success",
+        "time": "2026-06-16T01:39:08.538071"
+      },
+      {
+        "msg": "You sent 3.0 EC to ethan",
+        "type": "Success",
+        "time": "2026-06-16T01:40:24.014558"
+      },
+      {
+        "msg": "You requested 5.0 EC from: ethan",
+        "type": "Warning",
+        "time": "2026-06-16T01:40:49.633211"
+      },
+      {
+        "msg": "ethan accepted your request of 5.0",
+        "type": "Success",
+        "time": "2026-06-16T01:41:02.692994"
+      },
+      {
+        "msg": "You sent 5.0 EC to ethan",
+        "type": "Success",
+        "time": "2026-06-16T01:41:43.049791"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2026-06-16T01:55:40.617843"
+    },
+    "dateCreated": "2026-06-15T23:16:26.012953",
+    "_id": "c5b5efa8b5494a198547fb5bbeba3454"
+  },
+  {
+    "username": "localTest2",
+    "password": "hello",
+    "aboutMe": "aboutme haha",
+    "avatarPath": "local_data/files/profile-images/640109.png",
+    "friends": [
+      {
+        "_id": "c5b5efa8b5494a198547fb5bbeba3454"
+      }
+    ],
+    "friendRequests": [],
+    "inbox": [
+      {
+        "msg": "localTest Accepted your friend request yay",
+        "type": "Success",
+        "time": "2026-06-16T01:21:21.216473"
+      },
+      {
+        "msg": "Your submission: \"test\", has been declined for publication. Reason: sucks Decliner: ethan",
+        "type": "Error",
+        "time": "2026-06-16T01:24:58.412587"
+      },
+      {
+        "msg": "Your submission: \"test\", has been accepted for publication!",
+        "type": "Success",
+        "time": "2026-06-16T01:25:12.755047"
+      }
+    ],
+    "balance": [
+      {
+        "_id": "6a30a8ea2e1a9269398715fe"
+      }
+    ],
+    "requests": [],
+    "transactions": [
+      {
+        "msg": "You redeemed EC worth: 0.01",
+        "type": "Success",
+        "time": "2026-06-16T01:37:46.705794"
+      }
+    ],
+    "onLeaderboard": true,
+    "miners": [],
+    "status": "Peasent",
+    "active": {
+      "online": false,
+      "date": "2026-06-16T01:37:58.943226"
+    },
+    "dateCreated": "2026-06-16T01:21:07.437735",
+    "_id": "3e99c61c7b014e7eaa05918c6655c6e0"
+  }
+]

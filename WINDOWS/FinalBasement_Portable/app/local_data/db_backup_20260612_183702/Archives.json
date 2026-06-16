@@ -1,0 +1,59 @@
+[
+  {
+    "username": "localTest",
+    "userid": "841a5690-e93e-4dc6-88b9-0ea3c1843f51",
+    "archiveType": "editedUsername",
+    "archiveDate": "2026-06-12 22:15:20.262250",
+    "_id": "72cc526b-82f7-4c0d-b14a-c237b283b05b"
+  },
+  {
+    "username": "localTest1",
+    "userid": "841a5690-e93e-4dc6-88b9-0ea3c1843f51",
+    "archiveType": "editedUsername",
+    "archiveDate": "2026-06-12 22:15:27.708307",
+    "_id": "f6587c17-e5f0-4ee4-8c77-45580345df9f"
+  },
+  {
+    "userid": "841a5690-e93e-4dc6-88b9-0ea3c1843f51",
+    "inbox": [
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:16.343317"
+      },
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:21.156208"
+      },
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:21.600249"
+      },
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:21.764327"
+      },
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:21.937093"
+      },
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:22.056147"
+      },
+      {
+        "msg": "\"hey dumass\", From: localTest2",
+        "type": "warning",
+        "time": "2026-06-12 22:32:22.171008"
+      }
+    ],
+    "archiveType": "clearedInbox",
+    "archiveDate": "2026-06-12 22:34:55.921169",
+    "_id": "2bb182fd-1e3f-4963-8afe-dc7c47af2397"
+  }
+]
